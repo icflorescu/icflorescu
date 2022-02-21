@@ -5,7 +5,8 @@
 ## In a nutshell
 
 A 20+ years of experience full-stack developer from Bucharest, Romania, EU.  
-Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.
+Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.  
+Owner of [swapp.ro](https://swapp.ro/).
 
 ## Current tech-stack
 
@@ -14,7 +15,7 @@ Curious by nature, an avid reader of fantasy, fiction, history & tech-related li
 - **Prisma, PostgreSQL**, Hasura
 - **React/Next.js** (I once dreamt I was perceiving reality in React FC calls 🤪), but I'm also **interested in Svelte/SvelteKit**
 - tRPC.io (I'm also the author of [trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit))
-- I know my way around CSS and I'm good-enough at creating website/application designs *from scartch*; see:
+- I know my way around CSS and I'm good-enough at creating website/application designs *from scratch*; see:
   - [swapp.ro](https://swapp.ro)
   - [boutiquetravel.ro](https://boutiquetravel.ro/)
   - [interiordelight](https://interiordelight.github.io/)
