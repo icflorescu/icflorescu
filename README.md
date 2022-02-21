@@ -1,23 +1,51 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=icflorescu&theme=darkhub&column=4&margin-w=15&margin-h=15)
+<p align="center">
+  <img alt="@icflorescu" src="https://github-profile-trophy.vercel.app/?username=icflorescu&theme=darkhub&column=4&margin-w=15&margin-h=15" />
+</p>
 
-## Me in short
+## In a nutshell
 
-I am a web/software developer and entrepreneur with a strong focus on "making things happen" using the right technologies. Curious by nature, an avid reader of fiction, business & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better. 
+A 20+ years of experience full-stack developer from Bucharest, Romania, EU.  
+Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.
 
-## Stage I: Discovering the Internet 
+## Current tech-stack
 
-I've started my web/software development career back in 1998 and for 5 years I've been working for/with various start-ups and small companies using open-source technologies that were exotic and cutting-edge by that time. 
+- **Typescript/JavaScript**
+- **Node.js**
+- **Prisma, PostgreSQL**, Hasura
+- **React/Next.js** (I once dreamt I was perceiving reality in React FC calls 🤪), but I'm also **interested in Svelte/SvelteKit**
+- tRPC.io (I'm also the author of [trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit))
+- I know my way around CSS and I'm good-enough at creating website/application designs *from scartch*; see:
+  - [swapp.ro](https://swapp.ro)
+  - [boutiquetravel.ro](https://boutiquetravel.ro/)
+  - [interiordelight](https://interiordelight.github.io/)
+  - [King's Host](https://kingshost.github.io/)
+  - [AJM Fleet Purchase](https://ajm-fleetpurchase.com/)
+  - [sellcarbuycar.com](https://sellcarbuycar.com/)
 
-## Stage II: Meeting the Enterprise world 
+## Things I've worked with back in the Middle Ages
 
-In Q2 2003 I entered the "enterprise" world of financial corporations and for the next 5 years I've been working in software development for insurance companies such as Allianz Romania and Garanta SA. While working for these companies I have been involved in a number of successful projects and exposed to a new world of challenges: using and mastering a wide set of technologies (i.e. .NET, Oracle, SQL Server Enterprise), building large system architectures, becoming a real team-player, interacting with great people with various business- and tech-backgrounds and learning as much as possible from them.
+- PHP & MySQL, around y2k (yeah, I'm that old)
+- Java/J2EE, .NET/C#, Oracle, SQL Server, BizTalk, cca. 2002—2007
+- CoffeeScript & IcedCofeeScript, back when when JS had no async/await
+- Quite a few templating languages such as [Mustache](https://github.com/janl/mustache.js) or [Jade/Pug](https://pugjs.org/api/getting-started.html) and some strange old JS frameworks ([Backbone](https://backbonejs.org/), [Riot.js](https://riot.js.org/)) in the pre-React era
 
-## Stage III: On my own
+## Some old/defunct open-source projects I've built
+- [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) — this one is actually still very much alive; I'm constantly amazed by the sheer number of people who still use IISExpress  
+- [ASPAX](https://aspax.github.io/) - a simple Node.js asset packager inspired by Rails, when Webpack didn't exist
+- [MongoDB](https://github.com/icflorescu/openshift-cartridge-mongodb), [PostgreSQL](https://github.com/icflorescu/openshift-cartridge-postgresql) & [MySQL](https://github.com/icflorescu/openshift-cartridge-mysql) cartridges for Redhat's OpenShift, when Docker didn't exist
 
-Following the previous experience, confident in a continuously enhanced solid knowledge-base, in 2007 I finally made the decision of starting up "on my own" in a different area of activity. Luckily for me, the timing was perfect - the real-estate bubble was booming. This, coupled with the fact that I've grown accustomed to a moderate life-style, helped me to finally break-even and gain a comfortable degree of financial independence a few years later. In plain English, I gained the privilege of being able to pick my projects and be able to work not only for money, but also for fun and challenge.
+## The long(er) story
 
-## Stage IV: The future
+You can find my full-length boring ~~obituary~~ Resume/CV on LinkedIn here: [linkedin.com/in/icflorescu](https://www.linkedin.com/in/icflorescu/), but here's the blurb:
+- 20+ years of experience in web and software development
+- I've worked for various companies (from mid-sized to large multinationals such as [Allianz](https://www.allianztiriac.ro/) and Garanta—[member of National Bank of Greece](https://www.nbg.gr/en/group)) almost half of my career, the other half as an independent developer
+- I sometimes ~~write~~ rant about technology and its impact on human behaviour in [articles like these](https://www.linkedin.com/in/icflorescu/recent-activity/posts/).
 
-I have many interests, but never ceased to be a hands-on developer at heart. Imagining new system and application architectures, diving deep into countless lines of code in order to bring them to life, trying to understand how things work and striving to make them work better - these things still excite me as they used to more than 20 years ago. I find learning new programming languages and paradigms fun and stimulating, now more so than ever. Although I started my career in the Middle-Ages of IT with PHP and .NET, over the last years I've done lots of things with React/Next.js/Node.js and Typescript. 
+## Hobbies, likes & dislikes
 
-So, if you find my skills and experience useful, don't hesitate to drop me a line and let's see where it leads us.
+❤️ open-source, lazy mornings, good coffee, trekking in the mountains  
+👎 hypocrisy, xenophobia, ppl talking bullshit  
+
+## Before approaching me for work
+
+If you want to hire my services, please consider my current tech-stack.
