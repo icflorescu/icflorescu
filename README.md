@@ -14,8 +14,10 @@ Owner of [swapp.ro](https://swapp.ro/).
 - **Node.js**
 - **Prisma, PostgreSQL**, Hasura
 - **React/Next.js** (I once dreamt I was perceiving reality in React FC calls 🤪), but I'm also **interested in Svelte/SvelteKit**
-- tRPC.io (I'm also the author of [trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit))
-- I know my way around CSS and I'm good-enough at creating website/application designs *from scratch*; see:
+- [NextAuth](https://next-auth.js.org/)
+- [tRPC](https://trpc.io) (I'm a contributor and also the author of [trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit))
+- [Ant Design](https://ant.design/components/overview/), [MaterialUI](https://mui.com/), [Blueprint.js](https://blueprintjs.com/)
+- I know my way around CSS and I'm good-enough at creating website/application designs *from scratch*; here are some examples:
   - [swapp.ro](https://swapp.ro)
   - [boutiquetravel.ro](https://boutiquetravel.ro/)
   - [interiordelight](https://interiordelight.github.io/)
@@ -30,14 +32,14 @@ Owner of [swapp.ro](https://swapp.ro/).
 - CoffeeScript & IcedCofeeScript, back when when JS had no async/await
 - Quite a few templating languages such as [Mustache](https://github.com/janl/mustache.js) or [Jade/Pug](https://pugjs.org/api/getting-started.html) and some strange old JS frameworks ([Backbone](https://backbonejs.org/), [Riot.js](https://riot.js.org/)) in the pre-React era
 
-## Some old/defunct open-source projects I've built
+## Notable old/defunct open-source projects I've built
 - [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) — this one is actually still very much alive; I'm constantly amazed by the sheer number of people who still use IISExpress  
 - [ASPAX](https://aspax.github.io/) - a simple Node.js asset packager inspired by Rails, when Webpack didn't exist
 - [MongoDB](https://github.com/icflorescu/openshift-cartridge-mongodb), [PostgreSQL](https://github.com/icflorescu/openshift-cartridge-postgresql) & [MySQL](https://github.com/icflorescu/openshift-cartridge-mysql) cartridges for Redhat's OpenShift, when Docker didn't exist
 
 ## The long(er) story
 
-You can find my full-length boring ~~obituary~~ Resume/CV on LinkedIn here: [linkedin.com/in/icflorescu](https://www.linkedin.com/in/icflorescu/), but here's the blurb:
+You can find my full-length boring ~~obituary~~ Resume/CV on LinkedIn at [linkedin.com/in/icflorescu](https://www.linkedin.com/in/icflorescu/), but here's the blurb:
 - 20+ years of experience in web and software development
 - I've worked for various companies (from mid-sized to large multinationals such as [Allianz](https://www.allianztiriac.ro/) and Garanta—[member of National Bank of Greece](https://www.nbg.gr/en/group)) almost half of my career, the other half as an independent developer
 - I sometimes ~~write~~ rant about technology and its impact on human behaviour in [articles like these](https://www.linkedin.com/in/icflorescu/recent-activity/posts/).
