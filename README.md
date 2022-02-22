@@ -51,4 +51,4 @@ You can find my full-length boring ~~obituary~~ Resume/CV on LinkedIn at [linked
 
 ## Before approaching me for work
 
-If you want to hire my services, please consider my current tech-stack.
+If you want to hire me, please consider [my current tech-stack](#current-tech-stack); it's the area I'm most productive with.
