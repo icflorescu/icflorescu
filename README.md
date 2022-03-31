@@ -1,13 +1,4 @@
 
----
-# Standing with Ukraine
-
-> I am a native Romanian citizen from Bucharest and I only speak Romanian and English, but every freedom lover in the entire world has an Ukrainian soul nowadays.
-> 
-> ❤️🇺🇦! You are not alone. Together we are legion.🎭
----
-
-
 <p align="center">
   <img alt="@icflorescu" src="https://github-profile-trophy.vercel.app/?username=icflorescu&theme=darkhub&column=4&margin-w=15&margin-h=15" />
 </p>
