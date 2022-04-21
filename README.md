@@ -17,7 +17,7 @@ Owner of [swapp.ro](https://swapp.ro/).
 - **React/Next.js** (I once dreamt I was perceiving reality in React FC calls 🤪), but I'm also **interested in Svelte/SvelteKit**
 - [NextAuth](https://next-auth.js.org/)
 - [tRPC](https://trpc.io) (I'm a contributor and also the author of [trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit))
-- [Ant Design](https://ant.design/components/overview/), [MaterialUI](https://mui.com/), [Blueprint.js](https://blueprintjs.com/)
+- [Mantine](https://mantine.dev), [Ant Design](https://ant.design/components/overview/), [MaterialUI](https://mui.com/), [Blueprint.js](https://blueprintjs.com/)
 - I know my way around CSS and I'm good-enough at creating website/application designs *from scratch*; here are some examples:
   - [swapp.ro](https://swapp.ro)
   - [boutiquetravel.ro](https://boutiquetravel.ro/)
