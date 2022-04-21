@@ -15,7 +15,7 @@ Owner of [swapp.ro](https://swapp.ro/).
 - **Node.js**
 - **Prisma, PostgreSQL**, Hasura
 - **React/Next.js**, but I'm also **interested in Svelte/SvelteKit**
-- **[tRPC](https://trpc.io) - I'm a contributor and also the author of [trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit)**
+- **[tRPC](https://trpc.io) — I'm a contributor and also the author of [trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit)**
 - [NextAuth](https://next-auth.js.org/)
 - [Mantine](https://mantine.dev), [Ant Design](https://ant.design/components/overview/), [MaterialUI](https://mui.com/), [Blueprint.js](https://blueprintjs.com/)
 - I know my way around CSS (SASS/CSS-Modules, Emotion) and I'm good-enough at creating website/application designs *from scratch*; here are some examples:
@@ -42,13 +42,13 @@ Owner of [swapp.ro](https://swapp.ro/).
 
 You can find my full-length boring ~~obituary~~ Resume/CV on LinkedIn at [linkedin.com/in/icflorescu](https://www.linkedin.com/in/icflorescu/), but here's the blurb:
 - 20+ years of experience in web and software development
-- I've worked for various companies (from mid-sized to large multinationals such as [Allianz](https://www.allianztiriac.ro/) and Garanta — [member of National Bank of Greece](https://www.nbg.gr/en/group)) almost half of my career, the other half as an independent developer
+- I've worked for various companies (from mid-sized to large multinationals such as [Allianz](https://www.allianztiriac.ro/) and Garanta — [member of National Bank of Greece](https://www.nbg.gr/en/group)) for the first part of my career and for the last part I've been working as an independent developer
 - I sometimes ~~write~~ rant about technology and its impact on human behaviour in [articles like these](https://www.linkedin.com/in/icflorescu/recent-activity/posts/).
 
 ## Hobbies, likes & dislikes
 
 ❤️ open-source, lazy mornings, good coffee, trekking in the mountains, reading  
-👎 hypocrisy, xenophobia, people talking bullshit  
+👎 hypocrisy, xenophobia, willful ignorance, people talking bullshit  
 
 ## Before approaching me for work
 
