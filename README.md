@@ -52,4 +52,5 @@ You can find my full-length boring ~~obituary~~ Resume/CV on LinkedIn at [linked
 
 ## Before approaching me for work
 
-If you want to hire me, please consider [my current tech-stack](#current-tech-stack); it's the area I'm most productive with.
+If you want to hire me, please consider that I'm most productive with [the aforementioned tech-stack](#current-tech-stack).  
+I'm potentially interested in subcontracting front-end or full-stack development work.
