@@ -47,7 +47,7 @@ You can find my full-length boring ~~obituary~~ Resume/CV on LinkedIn at [linked
 
 ## Hobbies, likes & dislikes
 
-❤️ open-source, lazy mornings, good coffee, trekking in the mountains  
+❤️ open-source, lazy mornings, good coffee, trekking in the mountains, reading  
 👎 hypocrisy, xenophobia, people talking bullshit  
 
 ## Before approaching me for work
