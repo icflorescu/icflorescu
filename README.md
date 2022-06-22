@@ -26,7 +26,7 @@ Owner of [swapp.ro](https://swapp.ro/).
   - [AJM Fleet Purchase](https://ajm-fleetpurchase.com/)
   - [sellcarbuycar.com](https://sellcarbuycar.com/)
 
-## Things I've worked with back in the Middle Ages
+## Things I've worked with back in the Dark Ages
 
 - PHP & MySQL, around y2k (yeah, I'm that old)
 - Java/J2EE, .NET/C#, Oracle, SQL Server, BizTalk, cca. 2002—2007
