@@ -6,8 +6,9 @@
 ## In a nutshell
 
 A full-stack developer from Bucharest, Romania, EU, with 20+ years of experience.  
-Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.  
-Author of [tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit) and [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy).  
+Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.
+
+Author of [tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit) ![tRPC-SvelteKit repo stars](https://img.shields.io/github/stars/icflorescu/trpc-sveltekit?style=social), [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) ![IISExpress-Proxy repo stars](https://img.shields.io/github/stars/icflorescu/iisexpress-proxy?style=social) and other open-source projects ![Total stars](https://img.shields.io/github/stars/icflorescu?style=social).  
 Owner of [swapp.ro](https://swapp.ro/).
 
 ## Current tech-stack
