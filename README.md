@@ -17,8 +17,12 @@ Owner of [swapp.ro](https://swapp.ro/).
 - **Prisma, PostgreSQL**, Hasura
 - **React/Next.js**, but I'm also **interested in Svelte/SvelteKit**
 - **[tRPC](https://trpc.io) — I'm a contributor and also the author of [tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit)**
+- **React UI Frameworks** I've been working with:
+  - **[Mantine](https://mantine.dev)**
+  - **[Ant Design](https://ant.design/components/overview/)**
+  - **[MaterialUI](https://mui.com/)**
+  - **[Blueprint.js](https://blueprintjs.com/)**
 - [NextAuth](https://next-auth.js.org/)
-- [Mantine](https://mantine.dev), [Ant Design](https://ant.design/components/overview/), [MaterialUI](https://mui.com/), [Blueprint.js](https://blueprintjs.com/)
 - I know my way around CSS (SASS/CSS-Modules, Emotion) and I'm good-enough at creating website/application designs *from scratch*; here are some examples:
   - [swapp.ro](https://swapp.ro)
   - [boutiquetravel.ro](https://boutiquetravel.ro/)
