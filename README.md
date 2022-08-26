@@ -7,6 +7,7 @@
 
 A full-stack developer from Bucharest, Romania, EU, with 20+ years of experience.  
 Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.  
+Author of [tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit) and [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy).  
 Owner of [swapp.ro](https://swapp.ro/).
 
 ## Current tech-stack
@@ -15,7 +16,7 @@ Owner of [swapp.ro](https://swapp.ro/).
 - **Node.js**
 - **Prisma, PostgreSQL**, Hasura
 - **React/Next.js**, but I'm also **interested in Svelte/SvelteKit**
-- **[tRPC](https://trpc.io) — I'm a contributor and also the author of [trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit)**
+- **[tRPC](https://trpc.io) — I'm a contributor and also the author of [tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit)**
 - [NextAuth](https://next-auth.js.org/)
 - [Mantine](https://mantine.dev), [Ant Design](https://ant.design/components/overview/), [MaterialUI](https://mui.com/), [Blueprint.js](https://blueprintjs.com/)
 - I know my way around CSS (SASS/CSS-Modules, Emotion) and I'm good-enough at creating website/application designs *from scratch*; here are some examples:
