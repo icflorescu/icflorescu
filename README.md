@@ -40,9 +40,9 @@ Owner of [swapp.ro](https://swapp.ro/).
 - Quite a few templating languages such as [Mustache](https://github.com/janl/mustache.js) or [Jade/Pug](https://pugjs.org/api/getting-started.html) and some strange old JS frameworks ([Backbone](https://backbonejs.org/), [Riot.js](https://riot.js.org/)) in the pre-React era
 
 ## Notable old/defunct open-source projects I've built
-- [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) — this one is actually still very much alive; I'm constantly amazed by the sheer number of people who still use IISExpress  
-- [ASPAX](https://aspax.github.io/) — a simple Node.js asset packager inspired by Rails, when Webpack didn't exist
-- [Node.js](https://github.com/icflorescu/openshift-cartridge-nodejs), [MongoDB](https://github.com/icflorescu/openshift-cartridge-mongodb), [PostgreSQL](https://github.com/icflorescu/openshift-cartridge-postgresql) & [MySQL](https://github.com/icflorescu/openshift-cartridge-mysql) cartridges for Redhat's OpenShift, in a time when Docker didn't exist
+- [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) — this one is actually still very much alive; I'm constantly amazed by the sheer number of people who still use **IISExpress**  
+- [ASPAX](https://aspax.github.io/) — a simple **Node.js asset packager** inspired by Rails, when Webpack didn't exist
+- [Node.js](https://github.com/icflorescu/openshift-cartridge-nodejs), [MongoDB](https://github.com/icflorescu/openshift-cartridge-mongodb), [PostgreSQL](https://github.com/icflorescu/openshift-cartridge-postgresql) & [MySQL](https://github.com/icflorescu/openshift-cartridge-mysql) cartridges for **Redhat's OpenShift**, in a time when Docker didn't exist
 
 ## The long(er) story
 
