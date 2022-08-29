@@ -8,7 +8,7 @@
 A full-stack developer from Bucharest, Romania, EU, with 20+ years of experience.  
 Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.
 
-Author of [tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit), [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and other open-source projects.  
+Author of [✨tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit), [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and other open-source projects.  
 Owner of [swapp.ro](https://swapp.ro/).
 
 ## Current tech-stack
@@ -17,7 +17,7 @@ Owner of [swapp.ro](https://swapp.ro/).
 - **Node.js**
 - **Prisma, PostgreSQL**, Hasura
 - **React/Next.js**, but I'm also **interested in Svelte/SvelteKit**
-- **[tRPC](https://trpc.io) — I'm a contributor and also the author of [tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit)**
+- **[tRPC](https://trpc.io) — I'm a contributor and also the author of [✨tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit)**
 - **React UI Frameworks** I've been working with:
   - **[Mantine](https://mantine.dev) — I'm the author of [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/)**
   - **[Ant Design](https://ant.design/components/overview/)**
