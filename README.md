@@ -19,7 +19,7 @@ Owner of [swapp.ro](https://swapp.ro/).
 - **React/Next.js**, but I'm also **interested in Svelte/SvelteKit**
 - **[tRPC](https://trpc.io) — I'm a contributor and also the author of [✨tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit)**
 - **React UI Frameworks** I've been working with:
-  - **[Mantine](https://mantine.dev) — I'm the author of [📒Mantine DataTable](https://icflorescu.github.io/mantine-datatable/)**
+  - **[Mantine](https://mantine.dev) — I'm a contributor and also the author of [📒Mantine DataTable](https://icflorescu.github.io/mantine-datatable/)**
   - **[Ant Design](https://ant.design/components/overview/)**
   - **[MaterialUI](https://mui.com/)**
   - **[Blueprint.js](https://blueprintjs.com/)**
