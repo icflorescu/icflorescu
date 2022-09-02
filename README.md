@@ -27,7 +27,7 @@ Owner of [swapp.ro](https://swapp.ro/).
 - I know my way around CSS (SASS/CSS-Modules, Emotion) and I'm good-enough at creating website/application designs *from scratch*; here are some examples:
   - [swapp.ro](https://swapp.ro)
   - [boutiquetravel.ro](https://boutiquetravel.ro/)
-  - [interiordelight](https://interiordelight.github.io/)
+  - [interiordelight™️](https://interiordelight.github.io/)
   - [King's Host](https://kingshost.github.io/)
   - [AJM Fleet Purchase](https://ajm-fleetpurchase.com/)
   - [sellcarbuycar.com](https://sellcarbuycar.com/)
