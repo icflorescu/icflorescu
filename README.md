@@ -5,14 +5,13 @@
 
 ## In a nutshell
 
-![Stars on GitHub repos](https://img.shields.io/github/stars/icflorescu)
-![Followers on GitHub](https://img.shields.io/github/followers/icflorescu)
-![]()
+[![Stars on GitHub repos](https://img.shields.io/github/stars/icflorescu)](https://github.com/icflorescu)
+[![Followers on GitHub](https://img.shields.io/github/followers/icflorescu)](https://github.com/icflorescu)
 
 A full-stack developer from Bucharest, Romania, EU, with 20+ years of experience.  
 Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.
 
-Author of [✨ tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit), [📒 Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [🌐 IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years).  
+Author of [📒 Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [✨ tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit), [🌐 IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years).  
 Owner of [swapp.ro](https://swapp.ro/).
 
 ## Current tech-stack
