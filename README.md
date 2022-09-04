@@ -8,23 +8,25 @@
 A full-stack developer from Bucharest, Romania, EU, with 20+ years of experience.  
 Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.
 
-Author of [✨tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit), [📒Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [🌐IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-olddefunct-open-source-projects-ive-built).  
+Author of [✨ tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit), [📒 Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [🌐 IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years).  
 Owner of [swapp.ro](https://swapp.ro/).
 
 ## Current tech-stack
 
 - **Typescript/JavaScript**
 - **Node.js**
-- **Prisma, PostgreSQL**, Hasura
 - **React/Next.js**, but I'm also **interested in Svelte/SvelteKit**
-- **[tRPC](https://trpc.io) — I'm a contributor and also the author of [✨tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit)**
 - **React UI Frameworks** I've been working with:
   - **[Mantine](https://mantine.dev) — I'm a contributor and also the author of [📒Mantine DataTable](https://icflorescu.github.io/mantine-datatable/)**
   - **[Ant Design](https://ant.design/components/overview/)**
   - **[MaterialUI](https://mui.com/)**
   - **[Blueprint.js](https://blueprintjs.com/)**
-- [NextAuth](https://next-auth.js.org/)
-- I know a few CSS tricks, I'm fluent with CSS-in-JS, SASS/CSS-Modules, Emotion and I'm good-enough at creating website/application designs *from scratch*; here are some examples:
+- **[tRPC](https://trpc.io) — I'm a contributor and also the author of [✨tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit)**
+- **Prisma, PostgreSQL**, [Hasura](https://hasura.io/)
+- **[NextAuth](https://next-auth.js.org/)**
+- **Firebase** (mostly firebase-auth)
+- SQL in general; I have experience in designing enterprise DB architectures while working for multinational companies in the past  
+- I have a few CSS tricks up my sleeve, a good understanding of the DOM, I'm fluent with CSS-in-JS, SASS/CSS-Modules, Emotion and I'm even good-enough at creating website/application designs *from scratch*; here are some examples:
   - The [docs website](https://icflorescu.github.io/mantine-datatable/) for Mantine DataTable
   - [swapp.ro](https://swapp.ro)
   - [boutiquetravel.ro](https://boutiquetravel.ro/)
@@ -41,10 +43,12 @@ Owner of [swapp.ro](https://swapp.ro/).
 - CoffeeScript & IcedCofeeScript, back when when JS had no async/await
 - Quite a few templating languages such as [Mustache](https://github.com/janl/mustache.js) or [Jade/Pug](https://pugjs.org/api/getting-started.html) and some strange old JS frameworks ([Backbone](https://backbonejs.org/), [Riot.js](https://riot.js.org/)) in the pre-React era
 
-## Notable old/defunct open-source projects I've built
-- [🌐IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) — this one is actually still very much alive; I'm constantly amazed by the sheer number of people who still use **IISExpress**  
-- [ASPAX](https://aspax.github.io/) — a simple **Node.js asset packager** inspired by Rails, when Webpack didn't exist
-- [Node.js](https://github.com/icflorescu/openshift-cartridge-nodejs), [MongoDB](https://github.com/icflorescu/openshift-cartridge-mongodb), [PostgreSQL](https://github.com/icflorescu/openshift-cartridge-postgresql) & [MySQL](https://github.com/icflorescu/openshift-cartridge-mysql) cartridges for **Redhat's OpenShift**, in a time when Docker didn't exist
+## Notable open-source projects I've built over the years
+- [📒 Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) — a "dark-theme aware" table component for your Mantine UI data-rich applications, featuring asynchronous data loading support, pagination, multiple rows selection, column sorting, custom cell data rendering, row context menu, and more 
+- [✨ tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit) — an adapter allowing you to build end-to-end typesafe APIs with tRPC.io in your SvelteKit applications
+- [🌐 IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) — A simple, yet practical command-line utility enabling .NET developers to test web applications served by IIS Express on remote devices; it's been around since 2015, but *I'm amazed by the sheer number of people who still have to use **IISExpress** nowadays*
+- [🛠️ ASPAX](https://aspax.github.io/) — a simple **Node.js asset packager** inspired by Rails, in 2013, when Webpack didn't exist
+- ⚙️ [Node.js](https://github.com/icflorescu/openshift-cartridge-nodejs), [MongoDB](https://github.com/icflorescu/openshift-cartridge-mongodb), [PostgreSQL](https://github.com/icflorescu/openshift-cartridge-postgresql) & [MySQL](https://github.com/icflorescu/openshift-cartridge-mysql) cartridges for **Redhat's OpenShift**, in 2015-2015, when Docker wasn't yet a wide-spread tool
 
 ## The long(er) story
 
@@ -60,5 +64,12 @@ You can find my full-length boring ~~obituary~~ Resume/CV on LinkedIn at [linked
 
 ## Before approaching me for work
 
+I'm potentially interested in subcontracting front-end or full-stack development work (leaning towards front-end).  
+
+You can learn more about what I did over the years by visiting my [LinkedIn profile](https://www.linkedin.com/in/icflorescu/), but since you are on this page, chances are that you already have a pretty good idea of how my skills could oe of assitance you.  
 If you want to hire me, please consider that I'm most productive with [the aforementioned tech-stack](#current-tech-stack).  
-I'm potentially interested in subcontracting front-end or full-stack development work.
+
+<ins>NOTE</ins>: I'm currently getting a constant flow of approaches, some of them relevant, others not so relevant. Therefore, mentioning in your text that *you've seen my GitHub profile* would:
+- tell me that you know exactly what you need me for (as opposed to just trying to fill a vacant role);
+- let me know that my skills would indeed be valuable for you and would spare us both valuable time that we'd otherwise have to spend in trying to assess that;
+- help me **prioritize your message** and come up with a quick reply.
