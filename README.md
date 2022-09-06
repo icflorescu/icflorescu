@@ -69,7 +69,7 @@ You can find my full-length boring ~~obituary~~ Resume/CV on LinkedIn at [linked
 
 I'm potentially interested in subcontracting front-end or full-stack development work (leaning towards front-end).  
 
-You can learn more about what I did over the years by visiting my [LinkedIn profile](https://www.linkedin.com/in/icflorescu/), but since you are on this page, chances are that you already have a pretty good idea of how my skills could oe of assitance you.  
+You can learn more about what I did over the years by visiting my [LinkedIn profile](https://www.linkedin.com/in/icflorescu/), but since you are on this page, chances are that you already have a pretty good idea of how my skills could be of assitance to you.  
 If you want to hire me, please consider that I'm most productive with [the aforementioned tech-stack](#current-tech-stack).  
 
 <ins>NOTE</ins>: I'm currently getting a constant flow of approaches, some of them relevant, others not so relevant. Therefore, mentioning in your text that *you've seen my GitHub profile* would:
