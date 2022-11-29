@@ -24,13 +24,13 @@ Owner of [swapp.ro](https://swapp.ro/).
   - **[Ant Design](https://ant.design/components/overview/)**
   - **[MaterialUI](https://mui.com/)**
   - **[Blueprint.js](https://blueprintjs.com/)**
-- **[tRPC](https://trpc.io) — I'm a contributor and also the author of [✨tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit)**
+- **[tRPC](https://trpc.io) — I'm a contributor and also the author of [✨tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit)**
 - **Prisma, PostgreSQL**, [Hasura](https://hasura.io/)
 - **[NextAuth](https://next-auth.js.org/)**
 - **Firebase** (mostly firebase-auth)
 - SQL in general; I have experience in designing enterprise DB architectures while working for multinational companies in the past  
 - I have a few CSS tricks up my sleeve, a good understanding of the DOM, I'm fluent with CSS-in-JS, SASS/CSS-Modules, Emotion and I'm even good-enough at creating website/application designs *from scratch*; here are some examples:
-  - The [docs website](https://icflorescu.github.io/mantine-datatable/) for Mantine DataTable
+  - The docs websites for [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) and [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit/)
   - [swapp.ro](https://swapp.ro)
   - [boutiquetravel.ro](https://boutiquetravel.ro/)
   - [interiordelight™️](https://interiordelight.github.io/)
@@ -48,7 +48,7 @@ Owner of [swapp.ro](https://swapp.ro/).
 
 ## Notable open-source projects I've built over the years
 - [📒Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) — a "dark-theme aware" table component for your Mantine UI data-rich applications, featuring asynchronous data loading support, pagination, multiple rows selection, column sorting, custom cell data rendering, row context menu, and more 
-- [✨tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit) — an adapter allowing you to build end-to-end typesafe APIs with tRPC.io in your SvelteKit applications
+- [✨tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) — an adapter allowing you to build end-to-end typesafe APIs with tRPC.io in your SvelteKit applications
 - [🌐IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) — A simple, yet practical command-line utility enabling .NET developers to test web applications served by IIS Express on remote devices; it's been around since 2015, but *I'm amazed by the sheer number of people who still have to use **IISExpress** nowadays*
 - [🛠️ASPAX](https://aspax.github.io/) — a simple **Node.js asset packager** inspired by Rails, in 2013, when Webpack didn't exist
 - ⚙️[Node.js](https://github.com/icflorescu/openshift-cartridge-nodejs), [MongoDB](https://github.com/icflorescu/openshift-cartridge-mongodb), [PostgreSQL](https://github.com/icflorescu/openshift-cartridge-postgresql) & [MySQL](https://github.com/icflorescu/openshift-cartridge-mysql) cartridges for **Redhat's OpenShift**, in 2015-2015, when Docker wasn't yet a wide-spread tool
