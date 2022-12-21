@@ -6,7 +6,7 @@
 ## In a nutshell
 
 [![Stars on GitHub repos](https://img.shields.io/github/stars/icflorescu)](https://github.com/icflorescu)
-[![Followers on GitHub](https://img.shields.io/github/followers/icflorescu)](https://github.com/icflorescu)
+[![Followers on GitHub](https://img.shields.io/github/followers/icflorescu)](https://github.com/icflorescu?tab=followers)
 
 A full-stack developer from Bucharest, Romania, EU, with 20+ years of experience.  
 Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.
