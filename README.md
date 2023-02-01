@@ -11,7 +11,7 @@
 A full-stack developer from Bucharest, Romania, EU, with 20+ years of experience.  
 Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.
 
-Author of [✨tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit), [📒Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [🐧Expose-WSL](https://github.com/icflorescu/expose-wsl), [🌐IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years).  
+Author of [📒Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [✨tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit), [🐧Expose-WSL](https://github.com/icflorescu/expose-wsl), [🌐IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years).  
 Owner of [swapp.ro](https://swapp.ro/).
 
 ## Current tech-stack
