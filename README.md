@@ -48,8 +48,8 @@ Owner of [swapp.ro](https://swapp.ro/).
 - Quite a few templating languages such as [Mustache](https://github.com/janl/mustache.js) or [Jade/Pug](https://pugjs.org/api/getting-started.html) and some strange old JS frameworks ([Backbone](https://backbonejs.org/), [Riot.js](https://riot.js.org/)) in the pre-React era
 
 ## Notable open-source projects I've built over the years
-- [✨tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) — an adapter allowing you to build end-to-end typesafe APIs with tRPC.io in your SvelteKit applications
 - [📒Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) — a "dark-theme aware" table component for your Mantine UI data-rich applications, featuring asynchronous data loading support, pagination, multiple rows selection, column sorting, custom cell data rendering, row context menu, and more 
+- [✨tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) — an adapter allowing you to build end-to-end typesafe APIs with tRPC.io in your SvelteKit applications
 - [🐧Expose-WSL](https://github.com/icflorescu/expose-wsl) — probably the easiest way to expose apps running on WSL to local network devices
 - [🌐IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) — A simple, yet practical command-line utility enabling .NET developers to test web applications served by IIS Express on remote devices; it's been around since 2015, but *I'm amazed by the sheer number of people who still have to use **IISExpress** nowadays*
 - [🛠️ASPAX](https://aspax.github.io/) — a simple **Node.js asset packager** inspired by Rails, in 2013, when Webpack didn't exist
