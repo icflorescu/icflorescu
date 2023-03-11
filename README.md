@@ -1,7 +1,7 @@
 
 <p align="center">
   <!-- <img alt="@icflorescu" src="https://github-profile-trophy.vercel.app/?username=icflorescu&theme=darkhub&column=4&margin-w=15&margin-h=15" /> -->
-  <img alt="@icflorescu" src="https://github-profile-trophy.vercel.app/?username=icflorescu&column=4&margin-w=15&margin-h=15" />
+  <img alt="@icflorescu" src="https://github-profile-trophy.vercel.app/?username=icflorescu&column=4&margin-w=15&margin-h=15&theme=nord" />
 </p>
 
 ## In a nutshell
