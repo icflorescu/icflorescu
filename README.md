@@ -12,7 +12,10 @@
 A full-stack developer from Bucharest, Romania, EU, with 20+ years of experience.  
 Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.
 
-Author of [📒 Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [✨ tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit), [🐧 Expose-WSL](https://github.com/icflorescu/expose-wsl), [🌐 IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years).  
+Author of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit), 🐧 [Expose-WSL](https://github.com/icflorescu/expose-wsl), 🌐 [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years).  
+**Please consider [sponsoring my work](https://github.com/sponsors/icflorescu) if you find it useful.**  
+Great open-source projects would not be possible without your generosity. 
+
 Owner of [swapp.ro](https://swapp.ro/).
 
 ## Current tech-stack
@@ -21,11 +24,11 @@ Owner of [swapp.ro](https://swapp.ro/).
 - **Node.js**
 - **React/Next.js**, but I'm also **interested in Svelte/SvelteKit**
 - **React UI Frameworks** I've been working with:
-  - **[Mantine](https://mantine.dev) — I'm a contributor and also the author of [📒 Mantine DataTable](https://icflorescu.github.io/mantine-datatable/)**
+  - **[Mantine](https://mantine.dev) — I'm a contributor and also the author of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/)**
   - **[Ant Design](https://ant.design/components/overview/)**
   - **[MaterialUI](https://mui.com/)**
   - **[Blueprint.js](https://blueprintjs.com/)**
-- **[tRPC](https://trpc.io) — I'm a contributor and also the author of [✨ tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit)**
+- **[tRPC](https://trpc.io) — I'm a contributor and also the author of ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit)**
 - **Prisma, PostgreSQL**, [Hasura](https://hasura.io/)
 - **[NextAuth](https://next-auth.js.org/)**
 - **Firebase** (mostly firebase-auth)
@@ -48,12 +51,12 @@ Owner of [swapp.ro](https://swapp.ro/).
 - Quite a few templating languages such as [Mustache](https://github.com/janl/mustache.js) or [Jade/Pug](https://pugjs.org/api/getting-started.html) and some strange old JS frameworks ([Backbone](https://backbonejs.org/), [Riot.js](https://riot.js.org/)) in the pre-React era
 
 ## Notable open-source projects I've built over the years
-- [📒 Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) — a "dark-theme aware" table component for your Mantine UI data-rich applications, featuring asynchronous data loading support, pagination, multiple rows selection, column sorting, custom cell data rendering, row context menu, and more 
-- [✨ tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) — an adapter allowing you to build end-to-end typesafe APIs with tRPC.io in your SvelteKit applications
-- [🐧 Expose-WSL](https://github.com/icflorescu/expose-wsl) — probably the easiest way to expose apps running on WSL to local network devices
-- [🌐 IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) — A simple, yet practical command-line utility enabling .NET developers to test web applications served by IIS Express on remote devices; it's been around since 2015, but *I'm amazed by the sheer number of people who still have to use **IISExpress** nowadays*
-- [🛠️ ASPAX](https://aspax.github.io/) — a simple **Node.js asset packager** inspired by Rails, in 2013, when Webpack didn't exist
-- [⚙️ Node.js](https://github.com/icflorescu/openshift-cartridge-nodejs), [MongoDB](https://github.com/icflorescu/openshift-cartridge-mongodb), [PostgreSQL](https://github.com/icflorescu/openshift-cartridge-postgresql) & [MySQL](https://github.com/icflorescu/openshift-cartridge-mysql) cartridges for **Redhat's OpenShift**, in 2015-2015, when Docker wasn't yet a wide-spread tool
+- 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) — a "dark-theme aware" table component for your Mantine UI data-rich applications, featuring asynchronous data loading support, pagination, multiple rows selection, column sorting, custom cell data rendering, row context menu, and more 
+- ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) — an adapter allowing you to build end-to-end typesafe APIs with tRPC.io in your SvelteKit applications
+- 🐧 [Expose-WSL](https://github.com/icflorescu/expose-wsl) — probably the easiest way to expose apps running on WSL to local network devices
+- 🌐 [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) — A simple, yet practical command-line utility enabling .NET developers to test web applications served by IIS Express on remote devices; it's been around since 2015, but *I'm amazed by the sheer number of people who still have to use **IISExpress** nowadays*
+- 🛠️ [ASPAX](https://aspax.github.io/) — a simple **Node.js asset packager** inspired by Rails, in 2013, when Webpack didn't exist
+- ⚙️ [Node.js](https://github.com/icflorescu/openshift-cartridge-nodejs), [MongoDB](https://github.com/icflorescu/openshift-cartridge-mongodb), [PostgreSQL](https://github.com/icflorescu/openshift-cartridge-postgresql) & [MySQL](https://github.com/icflorescu/openshift-cartridge-mysql) cartridges for **Redhat's OpenShift**, in 2015-2015, when Docker wasn't yet a wide-spread tool
 
 ## The long(er) story
 
