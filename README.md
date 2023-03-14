@@ -16,7 +16,7 @@ Author of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatabl
 **Please consider [sponsoring my work](https://github.com/sponsors/icflorescu) if you find it useful 🙏**  
 Dedicating time to build and maintain great open-source projects would not be possible without your generosity. 
 
-Creator of [PocketBaseUML](https://pocketbase-uml.github.io).
+Creator of [PocketBaseUML](https://pocketbase-uml.github.io).  
 Owner of [swapp.ro](https://swapp.ro/).
 
 ## Current tech-stack
