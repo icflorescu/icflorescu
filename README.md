@@ -16,7 +16,7 @@ Author of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatabl
 **Please consider [sponsoring my work](https://github.com/sponsors/icflorescu) if you find it useful 🙏**  
 Dedicating time to build and maintain great open-source projects would not be possible without your generosity. 
 
-Creator of [PocketBaseUML](https://pocketbase-uml.github.io).  
+Creator of 📦 [PocketBaseUML](https://pocketbase-uml.github.io).  
 Owner of [swapp.ro](https://swapp.ro/).
 
 ## Current tech-stack
@@ -54,6 +54,7 @@ Owner of [swapp.ro](https://swapp.ro/).
 ## Notable open-source projects I've built over the years
 - 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) — a "dark-theme aware" table component for your Mantine UI data-rich applications, featuring asynchronous data loading support, pagination, multiple rows selection, column sorting, custom cell data rendering, row context menu, and more 
 - ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) — an adapter allowing you to build end-to-end typesafe APIs with tRPC.io in your SvelteKit applications
+- 📦 [PocketBaseUML](https://pocketbase-uml.github.io/) — a free, open-source UML diagram generator for PocketBase that can be used online to connect to HTTPS servers, or runned as an `npm` package to inspect local HTTP servers
 - 🐧 [Expose-WSL](https://github.com/icflorescu/expose-wsl) — probably the easiest way to expose apps running on WSL to local network devices
 - 🌐 [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) — A simple, yet practical command-line utility enabling .NET developers to test web applications served by IIS Express on remote devices; it's been around since 2015, but *I'm amazed by the sheer number of people who still have to use **IISExpress** nowadays*
 - 🛠️ [ASPAX](https://aspax.github.io/) — a simple **Node.js asset packager** inspired by Rails, in 2013, when Webpack didn't exist
