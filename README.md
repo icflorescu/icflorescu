@@ -12,7 +12,7 @@
 A full-stack developer from Bucharest, Romania, EU, with 20+ years of experience.  
 Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.
 
-Author of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit), 🐧 [Expose-WSL](https://github.com/icflorescu/expose-wsl), 🌐 [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years).  
+Author of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit), 🐧 [Expose-WSL](https://github.com/icflorescu/expose-wsl), 🌐 [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years).  
 **Please consider [sponsoring my work](https://github.com/sponsors/icflorescu) if you find it useful 🙏**  
 Dedicating time to build and maintain great open-source projects would not be possible without your generosity. 
 
@@ -25,7 +25,7 @@ Owner of [swapp.ro](https://swapp.ro/).
 - **Node.js**
 - **React/Next.js**, but I'm also **interested in Svelte/SvelteKit**
 - **React UI Frameworks** I've been working with:
-  - **[Mantine](https://mantine.dev) — I'm a contributor and also the author of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/)**
+  - **[Mantine](https://mantine.dev) — I'm a contributor and also the author of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) and 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/)**
   - **[Ant Design](https://ant.design/components/overview/)**
   - **[MaterialUI](https://mui.com/)**
   - **[Blueprint.js](https://blueprintjs.com/)**
@@ -35,7 +35,7 @@ Owner of [swapp.ro](https://swapp.ro/).
 - **Firebase** (mostly firebase-auth)
 - SQL in general; I have experience in designing enterprise DB architectures while working for multinational companies in the past  
 - I have a few CSS tricks up my sleeve, a good understanding of the DOM, I'm fluent with CSS-in-JS, SASS/CSS-Modules, Emotion and I'm even good-enough at creating website/application designs *from scratch*; here are some examples:
-  - The docs websites for [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) and [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit/)
+  - The docs websites for [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), and [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit/)
   - [swapp.ro](https://swapp.ro)
   - [boutiquetravel.ro](https://boutiquetravel.ro/)
   - [interiordelight™️](https://interiordelight.github.io/)
@@ -52,7 +52,8 @@ Owner of [swapp.ro](https://swapp.ro/).
 - Quite a few templating languages such as [Mustache](https://github.com/janl/mustache.js) or [Jade/Pug](https://pugjs.org/api/getting-started.html) and some strange old JS frameworks ([Backbone](https://backbonejs.org/), [Riot.js](https://riot.js.org/)) in the pre-React era
 
 ## Notable open-source projects I've built over the years
-- 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) — a "dark-theme aware" table component for your Mantine UI data-rich applications, featuring asynchronous data loading support, pagination, multiple rows selection, column sorting, custom cell data rendering, row context menu, and more 
+- 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) — a "dark-theme aware" table component for your Mantine UI data-rich applications, featuring asynchronous data loading support, pagination, multiple rows selection, column sorting, custom cell data rendering, row context menu, and more
+- 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/) — A lightweight yet customizable context-menu for your Mantine applications, with a succinct API and dark-theme support
 - ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) — an adapter allowing you to build end-to-end typesafe APIs with tRPC.io in your SvelteKit applications
 - 📦 [PocketBaseUML](https://pocketbase-uml.github.io/) — a free, open-source UML diagram generator for PocketBase that can be used online to connect to HTTPS servers, or runned as an `npm` package to inspect local HTTP servers
 - 🐧 [Expose-WSL](https://github.com/icflorescu/expose-wsl) — probably the easiest way to expose apps running on WSL to local network devices
