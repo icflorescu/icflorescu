@@ -31,6 +31,7 @@ Owner of 🐸 [swapp.ro](https://swapp.ro/).
 - **[tRPC](https://trpc.io) — I'm a contributor and also the author of ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit)**
 - **Prisma, PostgreSQL**, [Hasura](https://hasura.io/)
 - **[NextAuth](https://next-auth.js.org/)**
+- PocketBase(https://pocketbase.io/) — **I'm the author of 📦 [PocketBaseUML](https://pocketbase-uml.github.io/)**
 - **Firebase** (mostly firebase-auth)
 - SQL in general; I have experience in designing enterprise DB architectures while working for multinational companies in the past  
 - I have a few CSS tricks up my sleeve, a good understanding of the DOM, I'm fluent with CSS-in-JS, SASS/CSS-Modules, Emotion and I'm even good-enough at creating website/application designs *from scratch*; here are some examples:
