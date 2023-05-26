@@ -55,7 +55,7 @@ Owner of 🐸 [swapp.ro](https://swapp.ro/).
 - 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) — a "dark-theme aware" table component for your Mantine UI data-rich applications, featuring asynchronous data loading support, pagination, multiple rows selection, column sorting, custom cell data rendering, row context menu, and more
 - 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/) — A lightweight yet customizable context-menu for your Mantine applications, with a succinct API and dark-theme support
 - ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) — an adapter allowing you to build end-to-end typesafe APIs with tRPC.io in your SvelteKit applications
-- ✨ [tRPC-Transformer](https://icflorescu.github.io/trpc-transformer) — A simple tRPC transformer based on superjson with Decimal.js support
+- ✨ [tRPC-Transformer](https://github.com/icflorescu/trpc-transformer) — A simple tRPC transformer based on superjson with Decimal.js support
 - 📦 [PocketBaseUML](https://pocketbase-uml.github.io/) — a free, open-source UML diagram generator for PocketBase that can be used online to connect to HTTPS servers, or runned as an `npm` package to inspect local HTTP servers
 - 🐧 [Expose-WSL](https://github.com/icflorescu/expose-wsl) — probably the easiest way to expose apps running on WSL to local network devices
 - 🌐 [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) — A simple, yet practical command-line utility enabling .NET developers to test web applications served by IIS Express on remote devices; it's been around since 2015, but *I'm amazed by the sheer number of people who still have to use **IISExpress** nowadays*
