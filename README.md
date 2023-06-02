@@ -1,7 +1,7 @@
 
 <p align="center">
   <!-- <img alt="@icflorescu" src="https://github-profile-trophy.vercel.app/?username=icflorescu&theme=darkhub&column=4&margin-w=15&margin-h=15" /> -->
-  <img alt="@icflorescu" src="https://github-profile-trophy.vercel.app/?username=icflorescu&column=4&margin-w=15&margin-h=15&theme=nord" />
+  <img alt="@icflorescu" src="https://github-profile-trophy.vercel.app/?username=icflorescu&column=3&margin-w=15&margin-h=15&theme=nord" />
 </p>
 
 ## In a nutshell
@@ -85,3 +85,7 @@ If you want to hire me, please consider that I'm most productive with [the afore
 - tell me that you know exactly what you need me for (as opposed to just trying to fill a vacant role);
 - let me know that my skills would indeed be valuable for you and would spare us both valuable time that we'd otherwise have to spend in trying to assess that;
 - help me **prioritize your message** and come up with a quick reply.
+
+## How to approach me
+
+Drop me a message at the email address listed in my GitHub profile so we can schedule a meeting on [cal.com/icflorescu](https://cal.com/icflorescu).
