@@ -59,6 +59,7 @@ Owner of 🐸 [swapp.ro](https://swapp.ro/).
 - 📦 [PocketBaseUML](https://pocketbase-uml.github.io/) — a free, open-source UML diagram generator for PocketBase that can be used online to connect to HTTPS servers, or runned as an `npm` package to inspect local HTTP servers
 - 🐧 [Expose-WSL](https://github.com/icflorescu/expose-wsl) — probably the easiest way to expose apps running on WSL to local network devices
 - 🌐 [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) — A simple, yet practical command-line utility enabling .NET developers to test web applications served by IIS Express on remote devices; it's been around since 2015, but *I'm amazed by the sheer number of people who still have to use **IISExpress** nowadays*
+- 📖 [textdiff-create](https://github.com/icflorescu/textdiff-create) and [textdiff-patch](https://github.com/icflorescu/textdiff-patch) — simple utilities for [creating and applying lean text diffs](https://medium.com/@icflorescu/lean-diffs-for-browser-based-text-editors-46e363bc6dfe)
 - 🛠️ [ASPAX](https://aspax.github.io/) — a simple **Node.js asset packager** inspired by Rails, in 2013, when Webpack didn't exist
 - ⚙️ [Node.js](https://github.com/icflorescu/openshift-cartridge-nodejs), [MongoDB](https://github.com/icflorescu/openshift-cartridge-mongodb), [PostgreSQL](https://github.com/icflorescu/openshift-cartridge-postgresql) & [MySQL](https://github.com/icflorescu/openshift-cartridge-mysql) cartridges for **Redhat's OpenShift**, in 2015-2015, when Docker wasn't yet a wide-spread tool
 
