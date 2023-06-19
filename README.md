@@ -28,7 +28,7 @@ Owner of 🐸 [swapp.ro](https://swapp.ro/).
   - **[Ant Design](https://ant.design/components/overview/)**
   - **[MaterialUI](https://mui.com/)**
   - **[Blueprint.js](https://blueprintjs.com/)**
-- **[tRPC](https://trpc.io) — I'm a contributor and also the author of ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit)** and ✨ **[tRPC-Transformer](https://icflorescu.github.io/trpc-transformer)**
+- **[tRPC](https://trpc.io) — I'm a contributor and also the author of ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit)** and ✨ **[tRPC-Transformer](https://github.com/icflorescu/trpc-transformer)**
 - **Prisma, PostgreSQL**, [Hasura](https://hasura.io/)
 - **[NextAuth](https://next-auth.js.org/)**
 - [PocketBase](https://pocketbase.io/) — **I'm the author of 📦 [PocketBaseUML](https://pocketbase-uml.github.io/)**
