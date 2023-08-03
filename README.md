@@ -36,8 +36,8 @@ Owner of 🐸 [swapp.ro](https://swapp.ro/).
 - **Firebase** (mostly firebase-auth)
 - SQL in general; I have experience in designing enterprise DB architectures while working for multinational companies in the past  
 - I have a few CSS tricks up my sleeve, a good understanding of the DOM, I'm fluent with CSS-in-JS, SASS/CSS-Modules, Emotion and I'm even good-enough at creating website/application designs *from scratch*; here are some examples:
-  - The docs websites for [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit/)
-  - [swapp.ro](https://swapp.ro), and [ASPAX](https://aspax.github.io)
+  - The docs websites for [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit/) and [ASPAX](https://aspax.github.io)
+  - [swapp.ro](https://swapp.ro)
   - [boutiquetravel.ro](https://boutiquetravel.ro/)
   - [interiordelight™️](https://interiordelight.github.io/)
   - [King's Host](https://kingshost.github.io/)
