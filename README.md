@@ -1,7 +1,3 @@
-<p align="center">
-  <img alt="@icflorescu" src="https://github-profile-trophy.vercel.app/?username=icflorescu&column=3&theme=nord" />
-</p>
-
 ## In a nutshell
 
 [![Stars on GitHub repos](https://img.shields.io/github/stars/icflorescu?style-flat-square)](https://github.com/icflorescu#notable-open-source-projects-ive-built-over-the-years)
@@ -16,6 +12,12 @@ Author of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatabl
 Dedicating time to build and maintain great open-source projects would not be possible without your generosity.
 
 Owner of 🐸 [swapp.ro](https://swapp.ro/).
+
+## Public activity
+
+<p align="center">
+  <img alt="@icflorescu" src="https://github-profile-trophy.vercel.app/?username=icflorescu&column=3&theme=nord" />
+</p>
 
 ## Current tech-stack
 
