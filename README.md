@@ -13,7 +13,7 @@ Dedicating time to build and maintain great open-source projects would not be po
 
 Owner of 🐸 [swapp.ro](https://swapp.ro/).
 
-![@icflorescu on GitHub](https://github-profile-trophy.vercel.app/?username=icflorescu&column=3&theme=nord)
+![@icflorescu on GitHub](https://github-profile-trophy.vercel.app/?username=icflorescu&column=4&theme=nord)
 
 ## Current tech-stack
 
