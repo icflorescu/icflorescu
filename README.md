@@ -4,12 +4,12 @@
 [![Followers on GitHub](https://img.shields.io/github/followers/icflorescu?style=flat-square)](https://github.com/icflorescu?tab=followers)
 [![Sponsor my work](https://img.shields.io/badge/sponsor-violet?style=flat-square)](https://github.com/sponsors/icflorescu)
 
-A full-stack developer from Bucharest, Romania, EU, with 20+ years of experience.  
-Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.
-
-Author of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit), 📦 [PocketBaseUML](https://pocketbase-uml.github.io), 🐧 [Expose-WSL](https://github.com/icflorescu/expose-wsl), 🌐 [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years).  
+Creator of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit), 📦 [PocketBaseUML](https://pocketbase-uml.github.io), 🐧 [Expose-WSL](https://github.com/icflorescu/expose-wsl), 🌐 [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years).  
 **Please consider [sponsoring my work](https://github.com/sponsors/icflorescu) if you find it useful 🙏**  
 Dedicating time to build and maintain great open-source projects would not be possible without your generosity.
+
+A full-stack developer from Bucharest, Romania, EU, with 20+ years of experience.  
+Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.
 
 Owner of 🐸 [swapp.ro](https://swapp.ro/).
 
