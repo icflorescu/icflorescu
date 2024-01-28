@@ -77,7 +77,7 @@ You can learn more about what I did over the years by visiting my [LinkedIn prof
 If you want to hire me, please consider that I'm most productive with [the aforementioned tech-stack](#current-tech-stack).  
 
 > [!NOTE]
-> I'm currently getting a constant flow of approaches, some of them relevant, others not so relevant. Therefore, mentioning in your text that *you've seen my GitHub profile* would:
+> I'm currently getting a constant flow of approaches, some of them relevant, others not so relevant[^2]. Therefore, mentioning in your text that *you've seen my GitHub profile* would:
 > - tell me that you know exactly what you need me for (as opposed to just trying to fill a vacant role);
 > - let me know that my skills would indeed be valuable for you and would spare us both valuable time that we'd otherwise have to spend in trying to assess that;
 > - help me **prioritize your message** and come up with a quick reply.
@@ -87,3 +87,7 @@ If you want to hire me, please consider that I'm most productive with [the afore
 Drop me a message at the email address listed in my GitHub profile and we'll schedule a meeting on [cal.com/icflorescu](https://cal.com/icflorescu).
 
 [^1]: I couldn't find the time and motivation to turn [swapp.ro](https://swapp.ro/) into a real business and since the Romanian Government digital strategy related to eFactura is a major clusterf*ck, I'm thinking to (temporarily?) suspend aceepting new subscriptions.
+
+[^2]: I'm not really a fan of multistage recruitment processes and taking coding tests.  
+      My open-source projects are being starred and used by lots of developers and companies worldwide, and sum up to more than half-a-million monthly NPM downloads, as of December 2023.  
+      My coding skills are, therefore, vetted by the community.
