@@ -4,38 +4,45 @@
 [![Followers on GitHub](https://img.shields.io/github/followers/icflorescu?style=flat-square)](https://github.com/icflorescu?tab=followers)
 [![Sponsor my work](https://img.shields.io/badge/sponsor-violet?style=flat-square)](https://github.com/sponsors/icflorescu)
 
-Creator of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit), 📦 [PocketBaseUML](https://pocketbase-uml.github.io), 🐧 [Expose-WSL](https://github.com/icflorescu/expose-wsl), 🌐 [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years).  
-**Please consider [sponsoring my work](https://github.com/sponsors/icflorescu) if you find it useful 🙏**  
-Dedicating time to build and maintain great open-source projects would not be possible without your generosity.
-
 A full-stack developer from Bucharest, Romania, EU, with 20+ years of experience.  
 Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.
 
-Owner of 🐸 [swapp.ro](https://swapp.ro/).
+Creator of:
+- 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) and 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/)
+- ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit)
+- 📦 [PocketBaseUML](https://pocketbase-uml.github.io), 🐧 [Expose-WSL](https://github.com/icflorescu/expose-wsl), 🌐 [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years)
 
-![@icflorescu on GitHub](https://github-profile-trophy.vercel.app/?username=icflorescu&column=3&row=4&theme=nord)
+Please consider [sponsoring my work](https://github.com/sponsors/icflorescu) if you find it useful.  
+Dedicating time to build and maintain great open-source projects would not be possible without your generosity.  
+
+![@icflorescu on GitHub](https://github-profile-trophy.vercel.app/?username=icflorescu&column=4&row=4&theme=nord)
+
+~~Owner of 🐸 [swapp.ro](https://swapp.ro/).~~  
+_Side note: couldn't find the time and motivation to turn the application into a real business and since the Romanian Government digital strategy related to eFactura is a major clusterf*ck, I'm thinking to (temporarily?) suspend aceepting new subscriptions._
 
 ## Current tech-stack
 
 - **Typescript/JavaScript**
 - **Node.js**
-- **React/Next.js**, but I'm also **interested in Svelte/SvelteKit**
+- **React/Next.js/Remix**, but I'm also **interested in Svelte/SvelteKit**
 - **React UI Frameworks** I've been working with:
   - **[Mantine](https://mantine.dev) — I'm a contributor and also the author of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) and 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/)**
   - **[Ant Design](https://ant.design/components/overview/)**
   - **[MaterialUI](https://mui.com/)**
   - **[Blueprint.js](https://blueprintjs.com/)**
-- **[tRPC](https://trpc.io) — I'm a contributor and also the author of ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit)** and ✨ **[tRPC-Transformer](https://github.com/icflorescu/trpc-transformer)**
-- **Prisma, PostgreSQL**, [Hasura](https://hasura.io/)
-- **[NextAuth](https://next-auth.js.org/)**
-- [PocketBase](https://pocketbase.io/) — **I'm the author of 📦 [PocketBaseUML](https://pocketbase-uml.github.io/)**
+- **[tRPC](https://trpc.io) — I'm a contributor and the creator of ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit)** and ✨ **[tRPC-Transformer](https://github.com/icflorescu/trpc-transformer)**
+- **PostgreSQL, [Prisma](https://www.prisma.io/)**, [Hasura](https://hasura.io/), [Knex.js](https://knexjs.org/), [DrizzleORM](https://orm.drizzle.team/), [Kysely](https://kysely.dev/)
+- SQL in general; I have designed enterprise SQLServer/Oracle DB architectures while working for multinational companies in the past  
+- Worked with **[NextAuth](https://next-auth.js.org/)**, but I'm also interested in [Lucia](https://lucia-auth.com/)
+- [PocketBase](https://pocketbase.io/) — I'm a fan of the lightest "back-end in one file" solution and **the creator of 📦 [PocketBaseUML](https://pocketbase-uml.github.io/)**
 - **Firebase** (mostly firebase-auth)
-- SQL in general; I have experience in designing enterprise DB architectures while working for multinational companies in the past  
-- I have a few CSS tricks up my sleeve, a good understanding of the DOM, I'm fluent with CSS-in-JS, SASS/CSS-Modules, Emotion and I'm even good-enough at creating website/application designs *from scratch*; here are some examples:
+- I have a few CSS tricks up my sleeve, a good understanding of the DOM, I'm fluent with CSS-in-JS, SASS/CSS-Modules, PostCSS, Emotion and I'm even good-enough at creating website/application designs *from scratch*; here are some examples:
   - The docs websites for [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit/) and [ASPAX](https://aspax.github.io)
   - [swapp.ro](https://swapp.ro), [boutiquetravel.ro](https://boutiquetravel.ro/), [interiordelight™️](https://interiordelight.github.io/), [King's Host](https://kingshost.github.io/), [AJM Fleet Purchase](https://ajm-fleetpurchase.com/), [sellcarbuycar.com](https://sellcarbuycar.com/), [LeasingSH.ro](https://www.leasingsh.ro/), [PocketBaseUML](https://pocketbase-uml.github.io/)
+ 
+Not a huge Tailwind fan.
 
-## Things I've worked with back in the Dark Ages
+## Things I've worked with, back in the Dark Ages
 
 - PHP & MySQL, around y2k (yeah, I'm that old)
 - Java/J2EE, .NET/C#, Oracle, SQL Server, BizTalk, cca. 2002—2007
