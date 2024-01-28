@@ -1,8 +1,8 @@
 ## In a nutshell
 
 [![Stars on GitHub repos](https://img.shields.io/github/stars/icflorescu?style-flat-square)](https://github.com/icflorescu#notable-open-source-projects-ive-built-over-the-years)
-[![Followers on GitHub](https://img.shields.io/github/followers/icflorescu?style=flat-square)](https://github.com/icflorescu?tab=followers)
-[![NPM Downloads per month](https://img.shields.io/npm-stat/dm/icflorescu?style=flat-square)](https://github.com/icflorescu#notable-open-source-projects-ive-built-over-the-years)
+[![Followers on GitHub](https://img.shields.io/github/followers/icflorescu?style=flat-square&logo=github)](https://github.com/icflorescu?tab=followers)
+[![NPM Downloads per month](https://img.shields.io/npm-stat/dm/icflorescu?style=flat-square&logo=npm)](https://github.com/icflorescu#notable-open-source-projects-ive-built-over-the-years)
 [![Sponsor my work](https://img.shields.io/badge/sponsor-violet?style=flat-square)](https://github.com/sponsors/icflorescu)
 
 A full-stack developer from Bucharest, Romania, EU, with 20+ years of experience.  
