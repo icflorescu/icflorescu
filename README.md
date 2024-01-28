@@ -5,20 +5,13 @@
 [![Sponsor my work](https://img.shields.io/badge/sponsor-violet?style=flat-square)](https://github.com/sponsors/icflorescu)
 
 A full-stack developer from Bucharest, Romania, EU, with 20+ years of experience.  
-Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.
+Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.  
 
-Creator of:
-- 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) and 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/)
-- ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit)
-- 📦 [PocketBaseUML](https://pocketbase-uml.github.io), 🐧 [Expose-WSL](https://github.com/icflorescu/expose-wsl), 🌐 [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years)
-
-Please consider [sponsoring my work](https://github.com/sponsors/icflorescu) if you find it useful.  
-Dedicating time to build and maintain great open-source projects would not be possible without your generosity.  
+Creator of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit), 📦 [PocketBaseUML](https://pocketbase-uml.github.io), 🐧 [Expose-WSL](https://github.com/icflorescu/expose-wsl), 🌐 [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years).
 
 ![@icflorescu on GitHub](https://github-profile-trophy.vercel.app/?username=icflorescu&column=4&row=4&theme=nord)
 
-~~Owner of 🐸 [swapp.ro](https://swapp.ro/).~~  
-_Side note: couldn't find the time and motivation to turn the application into a real business and since the Romanian Government digital strategy related to eFactura is a major clusterf*ck, I'm thinking to (temporarily?) suspend aceepting new subscriptions._
+~~Owner of 🐸 [swapp.ro](https://swapp.ro/).~~[^1]  
 
 ## Current tech-stack
 
@@ -50,6 +43,9 @@ Not a huge Tailwind fan.
 - Quite a few templating languages such as [Mustache](https://github.com/janl/mustache.js) or [Jade/Pug](https://pugjs.org/api/getting-started.html) and some strange old JS frameworks ([Backbone](https://backbonejs.org/), [Riot.js](https://riot.js.org/)) in the pre-React era
 
 ## Notable open-source projects I've built over the years
+Please consider [sponsoring my work](https://github.com/sponsors/icflorescu) if you find it useful.  
+Dedicating time to build and maintain great open-source projects would not be possible without your generosity.  
+
 - 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) — a "dark-theme aware" table component for your Mantine UI data-rich applications, featuring asynchronous data loading support, pagination, multiple rows selection, column sorting, custom cell data rendering, row context menu, and more
 - 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/) — A lightweight yet customizable context-menu for your Mantine applications, with a succinct API and dark-theme support
 - ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) — an adapter allowing you to build end-to-end typesafe APIs with tRPC.io in your SvelteKit applications
@@ -77,14 +73,17 @@ You can find my full-length boring ~~obituary~~ Resume/CV on LinkedIn at [linked
 
 I'm potentially interested in subcontracting front-end or full-stack development work (leaning towards front-end).  
 
-You can learn more about what I did over the years by visiting my [LinkedIn profile](https://www.linkedin.com/in/icflorescu/), but since you are on this page, chances are that you already have a pretty good idea of how my skills could be of assistance to you.  
+You can learn more about what I did over the years by visiting my [LinkedIn profile](https://www.linkedin.com/in/icflorescu/), but since you are on this page, chances are that you already have a pretty good idea of how my skills could be of assistance.  
 If you want to hire me, please consider that I'm most productive with [the aforementioned tech-stack](#current-tech-stack).  
 
-<ins>NOTE</ins>: I'm currently getting a constant flow of approaches, some of them relevant, others not so relevant. Therefore, mentioning in your text that *you've seen my GitHub profile* would:
-- tell me that you know exactly what you need me for (as opposed to just trying to fill a vacant role);
-- let me know that my skills would indeed be valuable for you and would spare us both valuable time that we'd otherwise have to spend in trying to assess that;
-- help me **prioritize your message** and come up with a quick reply.
+> [!NOTE]
+> I'm currently getting a constant flow of approaches, some of them relevant, others not so relevant. Therefore, mentioning in your text that *you've seen my GitHub profile* would:
+> - tell me that you know exactly what you need me for (as opposed to just trying to fill a vacant role);
+> - let me know that my skills would indeed be valuable for you and would spare us both valuable time that we'd otherwise have to spend in trying to assess that;
+> - help me **prioritize your message** and come up with a quick reply.
 
 ## How to approach me
 
-Drop me a message at the email address listed in my GitHub profile so we can schedule a meeting on [cal.com/icflorescu](https://cal.com/icflorescu).
+Drop me a message at the email address listed in my GitHub profile and we'll schedule a meeting on [cal.com/icflorescu](https://cal.com/icflorescu).
+
+[^1]: I couldn't find the time and motivation to turn [swapp.ro](https://swapp.ro/) into a real business and since the Romanian Government digital strategy related to eFactura is a major clusterf*ck, I'm thinking to (temporarily?) suspend aceepting new subscriptions.
