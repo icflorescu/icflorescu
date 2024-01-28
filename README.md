@@ -9,9 +9,16 @@ Curious by nature, an avid reader of fantasy, fiction, history & tech-related li
 
 Creator of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit), 📦 [PocketBaseUML](https://pocketbase-uml.github.io), 🐧 [Expose-WSL](https://github.com/icflorescu/expose-wsl), 🌐 [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years).
 
-![@icflorescu on GitHub](https://github-profile-trophy.vercel.app/?username=icflorescu&column=4&row=4&theme=nord)
+<p>
+  <a href="https://icflorescu.github.io/mantine-datatable/"><img src="https://user-images.githubusercontent.com/581999/204804161-c62b69aa-3c0e-4fd3-8107-e05c1d7cbe8d.png" alt="Mantine DataTable" height="160" /></a>
+  <a href="https://icflorescu.github.io/mantine-contextmenu/"><img src="https://user-images.githubusercontent.com/581999/231235699-569fa4d8-428e-42ba-8e95-17d8140f8e7f.png" alt="Mantine ContextMenu" height="160" /></a>
+  <a href="https://icflorescu.github.io/trpc-sveltekit/"><img src="https://user-images.githubusercontent.com/581999/224492292-58d74af3-b40d-4d64-adcb-403b8aa1b434.png" alt="tRPC-SvelteKit" height="160" /></a>
+  <a href="https://pocketbase-uml.github.io/"><img src="https://user-images.githubusercontent.com/581999/225126356-d074ceb2-5139-419b-b93d-c4a62e3e8585.png" alt="PocketBaseUML" height="160" /></a>
+</p>
 
 ~~Owner of 🐸 [swapp.ro](https://swapp.ro/).~~[^1]  
+
+![@icflorescu on GitHub](https://github-profile-trophy.vercel.app/?username=icflorescu&column=4&row=4&theme=nord)  
 
 ## Current tech-stack
 
