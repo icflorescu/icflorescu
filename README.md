@@ -43,7 +43,7 @@ Former tech partner at [AJM FleetPurchase](https://ajm-fleetpurchase.com/) & [Le
   - The docs websites for [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit/) and [ASPAX](https://aspax.github.io)
   - [swapp.ro](https://swapp.ro), [boutiquetravel.ro](https://boutiquetravel.ro/), [interiordelight™️](https://interiordelight.github.io/), [King's Host](https://kingshost.github.io/), [AJM Fleet Purchase](https://ajm-fleetpurchase.com/), [sellcarbuycar.com](https://sellcarbuycar.com/), [LeasingSH.ro](https://www.leasingsh.ro/), [PocketBaseUML](https://pocketbase-uml.github.io/)
  
-Not a huge Tailwind fan.
+Not a huge fan of Tailwind.
 
 ## Things I've worked with, back in the Dark Ages
 
@@ -53,9 +53,6 @@ Not a huge Tailwind fan.
 - Quite a few templating languages such as [Mustache](https://github.com/janl/mustache.js) or [Jade/Pug](https://pugjs.org/api/getting-started.html) and some strange old JS frameworks ([Backbone](https://backbonejs.org/), [Riot.js](https://riot.js.org/)) in the pre-React era
 
 ## Notable open-source projects I've built over the years
-Please consider [sponsoring my work](https://github.com/sponsors/icflorescu) if you find it useful.  
-Dedicating time to build and maintain great open-source projects would not be possible without your generosity.  
-
 - 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) — a "dark-theme aware" table component for your Mantine UI data-rich applications, featuring asynchronous data loading support, pagination, multiple rows selection, column sorting, custom cell data rendering, row context menu, and more
 - 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/) — A lightweight yet customizable context-menu for your Mantine applications, with a succinct API and dark-theme support
 - ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) — an adapter allowing you to build end-to-end typesafe APIs with tRPC.io in your SvelteKit applications
@@ -66,6 +63,10 @@ Dedicating time to build and maintain great open-source projects would not be po
 - 📖 [textdiff-create](https://github.com/icflorescu/textdiff-create) and [textdiff-patch](https://github.com/icflorescu/textdiff-patch) — simple utilities for [creating and applying lean text diffs](https://medium.com/@icflorescu/lean-diffs-for-browser-based-text-editors-46e363bc6dfe)
 - 🛠️ [ASPAX](https://aspax.github.io/) — a simple **Node.js asset packager** inspired by Rails, in 2013, when Webpack didn't exist
 - ⚙️ [Node.js](https://github.com/icflorescu/openshift-cartridge-nodejs), [MongoDB](https://github.com/icflorescu/openshift-cartridge-mongodb), [PostgreSQL](https://github.com/icflorescu/openshift-cartridge-postgresql) & [MySQL](https://github.com/icflorescu/openshift-cartridge-mysql) cartridges for **Redhat's OpenShift**, in 2014-2015, when Docker wasn't yet a wide-spread tool
+
+> [!IMPORTANT]
+> Please consider [sponsoring my work](https://github.com/sponsors/icflorescu) if you find it useful.  
+> Dedicating time to build and maintain great open-source projects would not be possible without your generosity.  
 
 ## The long(er) story
 
