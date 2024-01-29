@@ -48,7 +48,7 @@ Not a huge fan of Tailwind.
 
 ## Things I've worked with, back in the Dark Ages
 
-- PHP & MySQL, around y2k (yeah, I'm that old)
+- PHP & MySQL, around y2k (yeah, I'vew been around a while)
 - Java/J2EE, .NET/C#, Oracle, SQL Server, BizTalk, cca. 2002—2007
 - CoffeeScript & IcedCofeeScript, back when when JS had no async/await
 - Quite a few templating languages such as [Mustache](https://github.com/janl/mustache.js) or [Jade/Pug](https://pugjs.org/api/getting-started.html) and some strange old JS frameworks ([Backbone](https://backbonejs.org/), [Riot.js](https://riot.js.org/)) in the pre-React era
