@@ -4,16 +4,11 @@
 [![Followers on GitHub](https://img.shields.io/github/followers/icflorescu?style=flat-square&logo=github)](https://github.com/icflorescu?tab=followers)
 [![Sponsor my work](https://img.shields.io/badge/sponsor-violet?style=flat-square)](https://github.com/sponsors/icflorescu)
 
-A full-stack developer from Bucharest, Romania, EU, with 20+ years of experience.  
+A full-stack developer from Bucharest, Romania, EU, with 25+ years of experience.  
 Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.  
 
 Creator of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) and 📦 [PocketBaseUML](https://pocketbase-uml.github.io).  
 Also built 🐧 [Expose-WSL](https://github.com/icflorescu/expose-wsl), 🌐 [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years).
-
-Currently doing stuff at [SegmentX.ai](https://segmentx.ai/).  
-~~Owner / Jack of all trades @ 🐸 [swapp.ro](https://swapp.ro/).~~[^1].  
-Ex [Allianz](https://www.allianz.com/en.html) & [NBG](https://www.nbg.gr/en).  
-Former tech partner at [AJM FleetPurchase](https://ajm-fleetpurchase.com/) & [LeasingSH.ro](https://www.leasingsh.ro/).  
 
 <p>
   <a href="https://icflorescu.github.io/mantine-datatable/"><img src="https://user-images.githubusercontent.com/581999/204804161-c62b69aa-3c0e-4fd3-8107-e05c1d7cbe8d.png" alt="Mantine DataTable" height="160" /></a>
@@ -21,6 +16,13 @@ Former tech partner at [AJM FleetPurchase](https://ajm-fleetpurchase.com/) & [Le
   <a href="https://icflorescu.github.io/trpc-sveltekit/"><img src="https://user-images.githubusercontent.com/581999/224492292-58d74af3-b40d-4d64-adcb-403b8aa1b434.png" alt="tRPC-SvelteKit" height="160" /></a>
   <a href="https://pocketbase-uml.github.io/"><img src="https://user-images.githubusercontent.com/581999/225126356-d074ceb2-5139-419b-b93d-c4a62e3e8585.png" alt="PocketBaseUML" height="160" /></a>
 </p>
+
+Currently doing stuff at [SegmentX.ai](https://segmentx.ai/).  
+~~Owner / Jack of all trades @ 🐸 [swapp.ro](https://swapp.ro/).~~[^1].  
+Ex [Allianz](https://www.allianz.com/en.html) & [NBG](https://www.nbg.gr/en).  
+Former tech partner at [AJM FleetPurchase](https://ajm-fleetpurchase.com/) & [LeasingSH.ro](https://www.leasingsh.ro/).  
+
+## OSS activity
 
 ![@icflorescu on GitHub](https://github-profile-trophy.vercel.app/?username=icflorescu&column=4&row=4&theme=nord)  
 
