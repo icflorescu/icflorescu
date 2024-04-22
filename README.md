@@ -37,7 +37,7 @@ Former tech partner at [AJM FleetPurchase](https://ajm-fleetpurchase.com/) & [Le
   - **[MaterialUI](https://mui.com/)**
   - **[Blueprint.js](https://blueprintjs.com/)**
 - **[tRPC](https://trpc.io) — I'm a contributor and the creator of ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit)** and ✨ **[tRPC-Transformer](https://github.com/icflorescu/trpc-transformer)**
-- **PostgreSQL, [Prisma](https://www.prisma.io/)**, [Hasura](https://hasura.io/), [Knex.js](https://knexjs.org/), [DrizzleORM](https://orm.drizzle.team/), [Kysely](https://kysely.dev/)
+- **PostgreSQL, [Prisma](https://www.prisma.io/)**/[ZenStack](https://zenstack.dev/), [Knex.js](https://knexjs.org/), [DrizzleORM](https://orm.drizzle.team/), [Kysely](https://kysely.dev/), [Hasura](https://hasura.io/)
 - SQL in general; I have designed enterprise SQLServer/Oracle DB architectures while working for multinational companies in the past  
 - Worked with **[NextAuth](https://next-auth.js.org/)**, but I'm also interested in [Lucia](https://lucia-auth.com/)
 - [PocketBase](https://pocketbase.io/) — I'm a fan of the lightest "back-end in one file" solution and **the creator of 📦 [PocketBaseUML](https://pocketbase-uml.github.io/)**
