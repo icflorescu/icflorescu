@@ -73,7 +73,7 @@ Not a huge fan of Tailwind.
 
 ## The long(er) story
 
-You can find my full-length boring ~~obituary~~ Resume/CV on LinkedIn at [linkedin.com/in/icflorescu](https://www.linkedin.com/in/icflorescu/), but here's the blurb:
+You can find my full-length boring ~~obituary~~ LinkedIn profile at [linkedin.com/in/icflorescu](https://www.linkedin.com/in/icflorescu/) or [see a PDF resume here](https://github.com/user-attachments/files/16862411/ionut-cristian-florescu--resume.pdf), but here's the blurb:
 - 25+ years of experience in web and software development
 - I've worked for various companies (from mid-sized to large multinationals such as [Allianz](https://www.allianztiriac.ro/) and Garanta — [member of National Bank of Greece](https://www.nbg.gr/en/group)) during the initial part of my career; for the last part I've been working as an independent developer
 - I sometimes ~~rant~~ write about technology and its impact on human behaviour in [articles like these](https://www.linkedin.com/in/icflorescu/recent-activity/posts/).
