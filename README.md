@@ -4,7 +4,7 @@
 [![Followers on GitHub](https://img.shields.io/github/followers/icflorescu?style=flat-square&logo=github)](https://github.com/icflorescu?tab=followers)
 [![Sponsor my work](https://img.shields.io/badge/sponsor-violet?style=flat-square)](https://github.com/sponsors/icflorescu)
 
-A full-stack developer from Bucharest, Romania, EU, with 25+ years of experience.  
+A [full-stack developer](https://github.com/icflorescu/icflorescu/blob/main/ionut-cristian-florescu--resume.pdf) from Bucharest, Romania, EU, with 25+ years of experience.  
 Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.  
 
 Creator of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) and 📦 [PocketBaseUML](https://pocketbase-uml.github.io).  
