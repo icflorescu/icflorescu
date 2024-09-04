@@ -17,7 +17,8 @@ Also built 🐧 [Expose-WSL](https://github.com/icflorescu/expose-wsl), 🌐 [II
   <a href="https://pocketbase-uml.github.io/"><img src="https://user-images.githubusercontent.com/581999/225126356-d074ceb2-5139-419b-b93d-c4a62e3e8585.png" alt="PocketBaseUML" height="160" /></a>
 </p>
 
-Currently doing stuff at [SegmentX.ai](https://segmentx.ai/).  
+Open to discuss joining a new venture starting November 2024.  
+~~Currently doing stuff at [SegmentX.ai](https://segmentx.ai/).~~  
 ~~Owner / Jack of all trades @ 🐸 [swapp.ro](https://swapp.ro/).~~[^1].  
 Ex [Allianz](https://www.allianz.com/en.html) & [NBG](https://www.nbg.gr/en).  
 Former tech partner at [AJM FleetPurchase](https://ajm-fleetpurchase.com/) & [LeasingSH.ro](https://www.leasingsh.ro/).  
