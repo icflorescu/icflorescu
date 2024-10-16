@@ -4,7 +4,7 @@
 [![Followers on GitHub](https://img.shields.io/github/followers/icflorescu?style=flat-square&logo=github)](https://github.com/icflorescu?tab=followers)
 [![Sponsor my work](https://img.shields.io/badge/sponsor-violet?style=flat-square)](https://github.com/sponsors/icflorescu)
 
-A [full-stack developer](https://github.com/icflorescu/icflorescu/blob/main/ionut-cristian-florescu--resume.pdf) from Bucharest, Romania, EU, with 25+ years of experience.  
+A full-stack developer (leaning towards front-end) from Bucharest, Romania, EU, with 25+ years of experience (👉 [download résumé](https://raw.githubusercontent.com/icflorescu/icflorescu/main/ionut-cristian-florescu--resume.pdf)).  
 Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.  
 
 Creator of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) and 📦 [PocketBaseUML](https://pocketbase-uml.github.io).  
@@ -74,7 +74,7 @@ Not a huge fan of Tailwind.
 
 ## The long(er) story
 
-You can find my full-length boring ~~obituary~~ LinkedIn profile at [linkedin.com/in/icflorescu](https://www.linkedin.com/in/icflorescu/), [see](https://github.com/icflorescu/icflorescu/blob/main/ionut-cristian-florescu--resume.pdf)/[download](https://raw.githubusercontent.com/icflorescu/icflorescu/main/ionut-cristian-florescu--resume.pdf) my resume, but here's the blurb:
+You can find my full-length boring ~~obituary~~ LinkedIn profile at [linkedin.com/in/icflorescu](https://www.linkedin.com/in/icflorescu/), [see](https://github.com/icflorescu/icflorescu/blob/main/ionut-cristian-florescu--resume.pdf)/[download](https://raw.githubusercontent.com/icflorescu/icflorescu/main/ionut-cristian-florescu--resume.pdf) my résumé, but here's the blurb:
 - 25+ years of experience in web and software development
 - I've worked for various companies (from mid-sized to large multinationals such as [Allianz](https://www.allianztiriac.ro/) and Garanta — [member of National Bank of Greece](https://www.nbg.gr/en/group)) during the initial part of my career; for the last part I've been working as an independent developer
 - I sometimes ~~rant~~ write about technology and its impact on human behaviour in [articles like these](https://www.linkedin.com/in/icflorescu/recent-activity/posts/).
