@@ -49,7 +49,7 @@ Former tech partner at [AJM FleetPurchase](https://ajm-fleetpurchase.com/).
   - The docs websites for [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit/) and [ASPAX](https://aspax.github.io)
   - [yadda.ro](https://yadda.ro), [swapp.ro](https://swapp.ro), [boutiquetravel.ro](https://boutiquetravel.ro/), [interiordelight™️](https://interiordelight.github.io/), [King's Host](https://kingshost.github.io/), [AJM Fleet Purchase](https://ajm-fleetpurchase.com/), [sellcarbuycar.com](https://sellcarbuycar.com/), [LeasingSH.ro](https://www.leasingsh.ro/), [PocketBaseUML](https://pocketbase-uml.github.io/)
  
-Not a huge fan of Tailwind, but I cope with it well enough to be currently working on my own a practical, opinionated component library based on shadcn/ui, soon to be open-sourced.
+Not a huge fan of Tailwind, but I cope with it well enough to be currently working on my own practical, opinionated component library based on shadcn/ui, soon to be open-sourced.
 
 ## Things I've worked with, back in the Dark Ages
 
