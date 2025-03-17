@@ -32,13 +32,14 @@ Former tech partner at [AJM FleetPurchase](https://ajm-fleetpurchase.com/).
 
 - **Typescript/JavaScript**
 - **Node.js**
-- **React/Next.js/Remix**, but I'm also **interested in Svelte/SvelteKit**
+- **React, Next.js, Remix/ReactRouter, Tanstack Router**, but I'm also **interested in Svelte/SvelteKit**
 - **React UI Frameworks** I've been working with:
   - **[Mantine](https://mantine.dev) — I'm a contributor and also the author of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) and 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/)**
   - **[Ant Design](https://ant.design/components/overview/)**
   - **[MaterialUI](https://mui.com/)**
   - **[Blueprint.js](https://blueprintjs.com/)**
 - **[tRPC](https://trpc.io) — I'm a contributor and the creator of ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit)** and ✨ **[tRPC-Transformer](https://github.com/icflorescu/trpc-transformer)**
+- **[Valtio](https://valtio.dev/docs/introduction/getting-started)** & [Zustand](https://zustand.docs.pmnd.rs/getting-started/introduction) — I favor modern state-management solutions over plain Redux
 - **PostgreSQL, [Prisma](https://www.prisma.io/)**/[ZenStack](https://zenstack.dev/), [Knex.js](https://knexjs.org/), [DrizzleORM](https://orm.drizzle.team/), [Kysely](https://kysely.dev/), [Hasura](https://hasura.io/)
 - SQL in general; I have designed enterprise SQLServer/Oracle DB architectures while working for multinational companies in the past  
 - Worked with **[NextAuth](https://next-auth.js.org/)**, but I'm also interested in [Lucia](https://lucia-auth.com/)
@@ -48,7 +49,7 @@ Former tech partner at [AJM FleetPurchase](https://ajm-fleetpurchase.com/).
   - The docs websites for [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit/) and [ASPAX](https://aspax.github.io)
   - [yadda.ro](https://yadda.ro), [swapp.ro](https://swapp.ro), [boutiquetravel.ro](https://boutiquetravel.ro/), [interiordelight™️](https://interiordelight.github.io/), [King's Host](https://kingshost.github.io/), [AJM Fleet Purchase](https://ajm-fleetpurchase.com/), [sellcarbuycar.com](https://sellcarbuycar.com/), [LeasingSH.ro](https://www.leasingsh.ro/), [PocketBaseUML](https://pocketbase-uml.github.io/)
  
-Not a huge fan of Tailwind.
+Not a huge fan of Tailwind, but I cope with it well enough to be currently working on my own a practical, opinionated component library based on shadcn/ui, soon to be open-sourced.
 
 ## Things I've worked with, back in the Dark Ages
 
@@ -75,7 +76,7 @@ Not a huge fan of Tailwind.
 
 ## The long(er) story
 
-You can find my full-length boring ~~obituary~~ LinkedIn profile at [linkedin.com/in/icflorescu](https://www.linkedin.com/in/icflorescu/), [see](https://github.com/icflorescu/icflorescu/blob/main/ionut-cristian-florescu--resume.pdf)/[download](https://raw.githubusercontent.com/icflorescu/icflorescu/main/ionut-cristian-florescu--resume.pdf) my résumé, but here's the blurb:
+You can find my boring, full-length ~~obituary~~ LinkedIn profile at [linkedin.com/in/icflorescu](https://www.linkedin.com/in/icflorescu/), but here's the blurb:
 - 25+ years of experience in web and software development
 - I've worked for various companies (from mid-sized to large multinationals such as [Allianz](https://www.allianztiriac.ro/) and Garanta — [member of National Bank of Greece](https://www.nbg.gr/en/group)) during the initial part of my career; for the last part I've been working as an independent developer
 - I sometimes ~~rant~~ write about technology and its impact on human behaviour in [articles like these](https://www.linkedin.com/in/icflorescu/recent-activity/posts/).
@@ -102,7 +103,7 @@ If you want to hire me, please consider that I'm most productive with [the afore
 
 Drop me a message at the email address listed in my GitHub profile and we'll schedule a meeting on [cal.com/icflorescu](https://cal.com/icflorescu).
 
-[^1]: I couldn't find the time and motivation to turn [swapp.ro](https://swapp.ro/) into a real business and since the Romanian Government digital strategy related to eFactura is a major clusterf*ck, I'm thinking to (temporarily?) suspend aceepting new subscriptions.
+[^1]: I couldn't find the time and motivation to turn [swapp.ro](https://swapp.ro/) into a real business and since the Romanian Government digital strategy related to eFactura is a major clusterduck, I've suspended aceepting new subscriptions.
 
 [^2]: I'm not really a fan of multistage recruitment processes and taking coding tests.  
       My open-source projects are being starred and used by lots of developers and companies worldwide, and sum up to millions NPM downloads.  
