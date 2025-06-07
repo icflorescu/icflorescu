@@ -4,7 +4,7 @@
 [![Followers on GitHub](https://img.shields.io/github/followers/icflorescu?style=flat-square&logo=github)](https://github.com/icflorescu?tab=followers)
 [![Sponsor my work](https://img.shields.io/badge/sponsor-violet?style=flat-square)](https://github.com/sponsors/icflorescu)
 
-A full-stack developer (leaning towards front-end) from Bucharest, Romania, EU, with 25+ years of experience (👉 [download résumé](https://raw.githubusercontent.com/icflorescu/icflorescu/main/ionut-cristian-florescu--resume.pdf)).  
+A full-stack developer (leaning towards front-end) from Bucharest, Romania, EU, with 25+ years of experience vetted by the community (👉 [download résumé](https://raw.githubusercontent.com/icflorescu/icflorescu/main/ionut-cristian-florescu--resume.pdf)).  
 Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to expand my skillset and horizons, to understand how things work and to make them work better.  
 
 Creator of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) and 📦 [PocketBaseUML](https://pocketbase-uml.github.io).  
@@ -17,7 +17,7 @@ Also built ✨ [Next.js Parallel Server Actions](https://github.com/icflorescu/n
   <a href="https://pocketbase-uml.github.io/"><img src="https://user-images.githubusercontent.com/581999/225126356-d074ceb2-5139-419b-b93d-c4a62e3e8585.png" alt="PocketBaseUML" height="160" /></a>
 </p>
 
-Open to discuss joining new ventures.  
+Open to discuss joining new ventures. Interested in sweat-quity partnerships.    
 Tech partner at [LeasingSH.ro](https://www.leasingsh.ro/) and co-owner at [Yadda](https://yadda.ro).  
 ~~Doing stuff at [SegmentX.ai](https://segmentx.ai/).~~  
 ~~Owner / Jack of all trades @ 🐸 [swapp.ro](https://swapp.ro/).~~[^1].  
@@ -49,7 +49,7 @@ Former tech partner at [AJM FleetPurchase](https://ajm-fleetpurchase.com/).
   - The docs websites for [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit/) and [ASPAX](https://aspax.github.io)
   - [yadda.ro](https://yadda.ro), [swapp.ro](https://swapp.ro), [boutiquetravel.ro](https://boutiquetravel.ro/), [interiordelight™️](https://interiordelight.github.io/), [King's Host](https://kingshost.github.io/), [AJM Fleet Purchase](https://ajm-fleetpurchase.com/), [sellcarbuycar.com](https://sellcarbuycar.com/), [LeasingSH.ro](https://www.leasingsh.ro/), [PocketBaseUML](https://pocketbase-uml.github.io/)
  
-Not a huge fan of Tailwind, but I cope with it well enough to be currently working on my own practical, opinionated component library based on shadcn/ui, soon to be open-sourced.
+Not a huge fan of Tailwind, but I cope with it well enough to be currently developing my own practical, opinionated component library based on shadcn/ui.
 
 ## Things I've worked with, back in the Dark Ages
 
@@ -88,7 +88,7 @@ You can find my boring, full-length ~~obituary~~ LinkedIn profile at [linkedin.c
 
 ## Before approaching me for work
 
-I'm potentially interested in subcontracting front-end or full-stack development work (leaning towards front-end).  
+I'm potentially interested in subcontracting front-end or full-stack development work (leaning towards front-end). Also interested in sweat-equity partnerships.    
 
 You can learn more about what I did over the years by visiting my [LinkedIn profile](https://www.linkedin.com/in/icflorescu/), but since you are on this page, chances are that you already have a pretty good idea of how my skills could be of assistance.  
 If you want to hire me, please consider that I'm most productive with [the aforementioned tech-stack](#current-tech-stack).  
@@ -103,7 +103,7 @@ If you want to hire me, please consider that I'm most productive with [the afore
 
 Drop me a message at the email address listed in my GitHub profile and we'll schedule a meeting on [cal.com/icflorescu](https://cal.com/icflorescu).
 
-[^1]: I couldn't find the time and motivation to turn [swapp.ro](https://swapp.ro/) into a real business and since the Romanian Government digital strategy related to eFactura is a major clusterduck, I've suspended aceepting new subscriptions.
+[^1]: I couldn't find the time and motivation to turn [swapp.ro](https://swapp.ro/) into a real business and since the Romanian Government digital strategy related to eFactura is a major clusterduck, I've decided to stop aceepting new subscriptions.
 
 [^2]: I'm not really a fan of multistage recruitment processes and taking coding tests.  
       My open-source projects are being starred and used by lots of developers and companies worldwide, and sum up to millions NPM downloads.  
