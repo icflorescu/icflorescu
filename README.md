@@ -18,7 +18,7 @@ Also built ✨ [Next.js Parallel Server Actions](https://github.com/icflorescu/n
 </p>
 
 Open to discuss joining new ventures. Interested in sweat-equity partnerships.    
-Tech partner at [LeasingSH.ro](https://www.leasingsh.ro/) and co-owner at [Yadda](https://yadda.ro).  
+Tech partner at [LeasingSH.ro](https://www.leasingsh.ro/) and co-owner of [Yadda](https://yadda.ro).  
 ~~Doing stuff at [SegmentX.ai](https://segmentx.ai/).~~  
 ~~Owner / Jack of all trades @ 🐸 [swapp.ro](https://swapp.ro/).~~[^1].  
 Ex [Allianz](https://www.allianz.com/en.html) & [NBG](https://www.nbg.gr/en).  
