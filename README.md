@@ -106,5 +106,5 @@ Drop me a message at the email address listed in my GitHub profile and we'll sch
 [^1]: I couldn't find the time and motivation to turn [swapp.ro](https://swapp.ro/) into a real business and since the Romanian Government digital strategy related to eFactura is a major clusterduck, I've decided to stop aceepting new subscriptions.
 
 [^2]: I'm not really a fan of multistage recruitment processes and taking coding tests.  
-      My open-source projects are being starred and used by lots of developers and companies worldwide, and sum up to millions NPM downloads.  
-      My coding skills are, therefore, vetted by the community.
+      My open-source projects are being starred and used by lots of developers and companies worldwide, sum up millions of NPM downloads and my coding skills are, therefore, vetted by the community.  
+      If you want my help, we will be discussing about project specifics such as its value proposition and how can I contribute to "make it happen", challenges and how to overcome those, risks versus rewards.
