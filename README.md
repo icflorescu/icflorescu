@@ -61,7 +61,7 @@ Not a huge fan of Tailwind, but I cope with it well enough to be currently devel
 ## Notable open-source projects I've built over the years
 - 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) — a "dark-theme aware" table component for your Mantine UI data-rich applications, featuring asynchronous data loading support, pagination, multiple rows selection, column sorting, custom cell data rendering, row context menu, and more
 - 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/) — A lightweight yet customizable context-menu for your Mantine applications, with a succinct API and dark-theme support
-- 🛠️ [Mantine Start](https://icflorescu.github.io/mantine-start/) and [Mantine Next](https://icflorescu.github.io/mantine-start/) — Starter templates for Mantine and TanStack Start / Next.js applications
+- 🛠️ [Mantine Start](https://github.com/icflorescu/mantine-start) and [Mantine Next](https://github.com/icflorescu/mantine-next) — Starter templates for Mantine and TanStack Start / Next.js applications
 - ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) — an adapter allowing you to build end-to-end typesafe APIs with tRPC.io in your SvelteKit applications
 - ✨ [tRPC-Transformer](https://github.com/icflorescu/trpc-transformer) — A simple tRPC transformer based on superjson with Decimal.js support
 - 📦 [PocketBaseUML](https://pocketbase-uml.github.io/) — a free, open-source UML diagram generator for PocketBase that can be used online to connect to HTTPS servers, or runned as an `npm` package to inspect local HTTP servers
