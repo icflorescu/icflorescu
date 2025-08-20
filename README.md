@@ -17,12 +17,11 @@ Also built ✨ [Next.js Parallel Server Actions](https://github.com/icflorescu/n
   <a href="https://pocketbase-uml.github.io/"><img src="https://user-images.githubusercontent.com/581999/225126356-d074ceb2-5139-419b-b93d-c4a62e3e8585.png" alt="PocketBaseUML" height="160" /></a>
 </p>
 
-Open to discuss joining new ventures. Interested in sweat-equity partnerships.    
-Tech partner at [LeasingSH.ro](https://www.leasingsh.ro/) and co-owner of [Yadda](https://yadda.ro).  
+Open to discuss joining new ventures. Interested in sweat-equity partnerships.  
+Fractional CTO / sweat-equity partner at [LeasingSH.ro](https://www.leasingsh.ro/) and co-owner of [Yadda](https://yadda.ro).  
+Ex [Allianz](https://www.allianz.com/en.html), [NBG](https://www.nbg.gr/en) and [AJM FleetPurchase](https://ajm-fleetpurchase.com/).  
 ~~Doing stuff at [SegmentX.ai](https://segmentx.ai/).~~  
-~~Owner / Jack of all trades @ 🐸 [swapp.ro](https://swapp.ro/).~~[^1].  
-Ex [Allianz](https://www.allianz.com/en.html) & [NBG](https://www.nbg.gr/en).  
-Former tech partner at [AJM FleetPurchase](https://ajm-fleetpurchase.com/).  
+~~Owner / Jack of all trades @ 🐸 [swapp.ro](https://swapp.ro/).~~[^1].
 
 ## OSS activity
 
