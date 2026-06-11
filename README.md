@@ -21,7 +21,7 @@ Open to discuss joining new ventures. Interested in sweat-equity partnerships.
 Fractional CTO and sweat-equity partner at [LeasingSH.ro](https://www.leasingsh.ro/).  
 Ex [Allianz](https://www.allianz.com/en.html), [National Bank of Greece](https://www.nbg.gr/en) and [AJM FleetPurchase](https://ajm-fleetpurchase.com/).  
 Co-owner of [Yadda](https://yadda.ro).  
-~~Doing stuff at [SegmentX.ai](https://segmentx.ai/).~~  
+~~Doing stuff at [SegmentX.ai/SalesPlay(https://salesplayx.com/).~~  
 ~~Owner / Jack of all trades @ 🐸 [swapp.ro](https://swapp.ro/).~~[^1].
 
 ## OSS activity
