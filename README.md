@@ -26,7 +26,7 @@ Co-owner of [Yadda](https://yadda.ro).
 
 ## OSS activity
 
-![@icflorescu on GitHub](https://gh-trophy.cdnsoft.net/?username=icflorescu&column=4&row=2&theme=nord)  
+![@icflorescu on GitHub](https://trophy.benkou.dev/?username=icflorescu&column=4&row=2&theme=nord)  
 
 ## Current tech-stack
 
