@@ -1,0 +1,49 @@
+# Renders the GitHub trophy into assets/trophy.svg, so the profile doesn't depend on a public instance staying up.
+# Runs ryo-ma/github-profile-trophy's own server for a moment and asks it for the same image the public instances serve.
+name: Trophy
+
+on:
+  schedule:
+    - cron: '23 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Pinned to a reviewed commit; bump it deliberately after reading what changed.
+      - uses: actions/checkout@v4
+        with:
+          repository: ryo-ma/github-profile-trophy
+          ref: 43736b50a82fca73c8df1c81abb40aa03519975c
+          path: .trophy
+
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Render
+        env:
+          GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN2: ${{ secrets.GITHUB_TOKEN }}
+          PORT: '8080'
+        run: |
+          deno run --allow-net --allow-env --allow-read .trophy/main.ts &
+          for _ in $(seq 1 60); do curl -s -o /dev/null http://localhost:8080/ && break; sleep 2; done
+          # -f: an error page comes with a non-2xx status, and must not replace the last good trophy.
+          curl -sf -o trophy.svg 'http://localhost:8080/?username=icflorescu&column=4&row=2&theme=nord'
+          grep -q '<svg' trophy.svg
+          mkdir -p assets
+          mv trophy.svg assets/trophy.svg
+
+      - name: Commit if changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/trophy.svg
+          git diff --cached --quiet || { git commit -m 'Update trophy'; git push; }
