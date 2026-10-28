@@ -4,25 +4,48 @@
 [![Followers on GitHub](https://img.shields.io/github/followers/icflorescu?style=flat-square&logo=github)](https://github.com/icflorescu?tab=followers)
 [![Sponsor my work](https://img.shields.io/badge/sponsor-violet?style=flat-square)](https://github.com/sponsors/icflorescu)
 
-A hands-on fractional CTO, product builder and open-source author from Bucharest, Romania, EU, building for the web since 1998 (👉 [download résumé](https://raw.githubusercontent.com/icflorescu/icflorescu/main/ionut-cristian-florescu--resume.pdf)).  
+A hands-on fractional CTO, product builder and open-source author from Bucharest, Romania, EU, building for the web since 1998 ([download résumé](https://raw.githubusercontent.com/icflorescu/icflorescu/main/ionut-cristian-florescu--resume.pdf)).  
 I take software products from a blank repo to production, and stay to run them for a decade. I still write production code; I've also learned which code isn't worth writing.  
 Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to understand how things work and to make them work better.  
 
-Creator of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) (~400k npm downloads a month), 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) and 📦 [PocketBaseUML](https://pocketbase-uml.github.io).  
-Also built ✨ [Next.js Parallel Server Actions](https://github.com/icflorescu/next-server-actions-parallel), 🐧 [Expose-WSL](https://github.com/icflorescu/expose-wsl), 🌐 [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years).  
-On the commercial side: 🐸 [swapp.ro](https://swapp.ro/), my own SaaS, and 🚗 [LeasingSH.ro](https://www.leasingsh.ro/), where I've been the technical partner since 2013.
+### Currently building: [swapp.ro](https://swapp.ro/)
+
+<a href="https://swapp.ro/"><img src="assets/swapp-dashboard.png" alt="The swapp.ro dashboard: deadlines, overdue invoices and money owed, at a glance" width="100%" /></a>
+
+A product I design, build and run on my own: invoicing and single-entry accounting for Romanian freelancers (PFA, ÎI and PFI) who aren't VAT-registered. You record each transaction once, and the app works out the rest:
+
+- invoices in RON or foreign currencies, sent through ANAF's e-Factura over OAuth, with supplier invoices downloaded in the background
+- the mandatory ledgers, kept in real time, with foreign amounts at the daily BNR rate
+- the figures for the D212, D390 and D301 returns, in the order the forms ask for them
+- running CAS, CASS and income tax estimates, plus a free public [PFA tax calculator](https://swapp.ro/taxe-pfa)
+- help on every screen that explains the tax rule and cites the article of law
+
+Rebuilt from scratch in 2026, solo, in five months, on TanStack Start, tRPC, Drizzle, PostgreSQL and Bun, self-hosted with Docker and Caddy. Live since October 2026, free while it's being finished, and I use it for my own books.
+
+**A Romanian freelancer? [Give it a try](https://swapp.ro/inregistrare).** Know one? Send them the link.
+
+### Everything else
+
+Creator of [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) (~400k npm downloads a month), [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) and [PocketBaseUML](https://pocketbase-uml.github.io).  
+Also built [Next.js Parallel Server Actions](https://github.com/icflorescu/next-server-actions-parallel), [Expose-WSL](https://github.com/icflorescu/expose-wsl), [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years).  
+On the commercial side, I've been the technical partner behind [LeasingSH.ro](https://www.leasingsh.ro/) since 2013.
 
 <p>
   <a href="https://icflorescu.github.io/mantine-datatable/"><img src="assets/mantine-datatable.png" alt="Mantine DataTable" height="160" /></a>
   <a href="https://icflorescu.github.io/mantine-contextmenu/"><img src="assets/mantine-contextmenu.png" alt="Mantine ContextMenu" height="160" /></a>
   <a href="https://icflorescu.github.io/trpc-sveltekit/"><img src="assets/trpc-sveltekit.png" alt="tRPC-SvelteKit" height="160" /></a>
   <a href="https://pocketbase-uml.github.io/"><img src="assets/pocketbase-uml.png" alt="PocketBaseUML" height="160" /></a>
-  <a href="https://swapp.ro/"><img src="assets/swapp.png" alt="swapp.ro" height="160" /></a>
+</p>
+
+<p>
+  <a href="https://www.leasingsh.ro/"><img src="assets/leasingsh.png" alt="LeasingSH.ro" height="160" /></a>
+  <a href="https://yadda.ro/"><img src="assets/yadda.png" alt="Yadda" height="160" /></a>
+  <a href="https://boutiquetravel.ro/"><img src="assets/boutiquetravel.png" alt="Boutique Travel" height="160" /></a>
 </p>
 
 Open to fractional CTO and technical partner roles for early-stage products, and to sweat-equity partnerships where I own the technical side.  
 Fractional CTO and sweat-equity partner at [LeasingSH.ro](https://www.leasingsh.ro/).  
-Owner / Jack of all trades @ 🐸 [swapp.ro](https://swapp.ro/)[^1].  
+Owner / Jack of all trades @ [swapp.ro](https://swapp.ro/).  
 Ex [Allianz](https://www.allianz.com/en.html), [National Bank of Greece](https://www.nbg.gr/en) and [AJM FleetPurchase](https://ajm-fleetpurchase.com/).  
 Co-owner of [Yadda](https://yadda.ro).  
 ~~Doing stuff at [SegmentX.ai/SalesPlay](https://salesplayx.com/).~~  
@@ -37,17 +60,17 @@ Co-owner of [Yadda](https://yadda.ro).
 - **Node.js and [Bun](https://bun.sh/)**
 - **[TanStack](https://tanstack.com/) Start, Router, Query & Form, React, Next.js, Remix/React Router**, but I'm also **interested in Svelte/SvelteKit**
 - **React UI Frameworks** I've been working with:
-  - **[Mantine](https://mantine.dev) — I'm a contributor and also the author of 📒 [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) and 🖱️ [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/)**
+  - **[Mantine](https://mantine.dev) — I'm a contributor and also the author of [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) and [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/)**
   - **[shadcn/ui](https://ui.shadcn.com/) over [Base UI](https://base-ui.com/)**, which is what [swapp.ro](https://swapp.ro) is built with
   - **[Ant Design](https://ant.design/components/overview/)**
   - **[MaterialUI](https://mui.com/)**
   - **[Blueprint.js](https://blueprintjs.com/)**
-- **[tRPC](https://trpc.io) — I'm a contributor and the creator of ✨ [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit)** and ✨ **[tRPC-Transformer](https://github.com/icflorescu/trpc-transformer)**
+- **[tRPC](https://trpc.io) — I'm a contributor and the creator of [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit)** and **[tRPC-Transformer](https://github.com/icflorescu/trpc-transformer)**
 - **PostgreSQL, [DrizzleORM](https://orm.drizzle.team/)**, [Prisma](https://www.prisma.io/)/[ZenStack](https://zenstack.dev/), [Knex.js](https://knexjs.org/), [Kysely](https://kysely.dev/), [Hasura](https://hasura.io/)
 - SQL in general; I have designed enterprise SQL Server/Oracle DB architectures while working for multinational companies in the past
 - [Valtio](https://valtio.dev/docs/introduction/getting-started), [Zustand](https://zustand.docs.pmnd.rs/getting-started/introduction) & [Jotai](https://jotai.org/) — I favor modern state-management solutions over plain Redux
 - Worked with **[NextAuth/Auth.js](https://authjs.dev/)** and **Firebase** (mostly firebase-auth), but these days I'm just as happy rolling my own sessions
-- [PocketBase](https://pocketbase.io/) — I'm a fan of the lightest "back-end in one file" solution and **the creator of 📦 [PocketBaseUML](https://pocketbase-uml.github.io/)**
+- [PocketBase](https://pocketbase.io/) — I'm a fan of the lightest "back-end in one file" solution and **the creator of [PocketBaseUML](https://pocketbase-uml.github.io/)**
 - **Docker & [Caddy](https://caddyserver.com/)** on a plain VPS — I self-host what I build, with no cloud bill to dread
 - I have a few CSS tricks up my sleeve, a good understanding of the DOM, I'm fluent with CSS-in-JS, SASS/CSS-Modules, PostCSS, Emotion and I'm even good-enough at creating website/application designs *from scratch*; here are some examples:
   - The docs websites for [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit/) and [ASPAX](https://aspax.github.io)
@@ -87,7 +110,7 @@ You can find my boring, full-length ~~obituary~~ LinkedIn profile at [linkedin.c
 - 25+ years of experience in web and software development
 - I've worked for various companies (from mid-sized to large multinationals such as [Allianz](https://www.allianztiriac.ro/) and Garanta — [member of National Bank of Greece](https://www.nbg.gr/en/group)) during the initial part of my career; since 2008 I've been working independently
 - Technical partner at [LeasingSH.ro](https://www.leasingsh.ro/) since 2013, rebuilt three times as the web evolved, keeping the business running through each migration
-- In 2026 I rebuilt 🐸 [swapp.ro](https://swapp.ro/) from scratch, solo, in five months: invoicing and single-entry accounting for Romanian freelancers, wired into the national e-invoicing system
+- In 2026 I rebuilt [swapp.ro](https://swapp.ro/) from scratch, solo, in five months: invoicing and single-entry accounting for Romanian freelancers, wired into the national e-invoicing system
 - I'm at home in rule-heavy domains (insurance, leasing, tax), where "almost right" means wrong
 - I sometimes ~~rant~~ write about technology and its impact on human behaviour in [articles like these](https://www.linkedin.com/in/icflorescu/recent-activity/posts/)
 
@@ -104,7 +127,7 @@ You can learn more about what I did over the years by visiting my [LinkedIn prof
 If you want to hire me, please consider that I'm most productive with [the aforementioned tech-stack](#current-tech-stack).  
 
 > [!NOTE]
-> I'm currently getting a constant flow of approaches, some of them relevant, others not so relevant[^2]. Therefore, mentioning in your text that *you've seen my GitHub profile* would:
+> I'm currently getting a constant flow of approaches, some of them relevant, others not so relevant[^1]. Therefore, mentioning in your text that *you've seen my GitHub profile* would:
 > - tell me that you know exactly what you need me for (as opposed to just trying to fill a vacant role);
 > - let me know that my skills would indeed be valuable for you and would spare us both valuable time that we'd otherwise have to spend in trying to assess that;
 > - help me **prioritize your message** and come up with a quick reply.
@@ -113,8 +136,6 @@ If you want to hire me, please consider that I'm most productive with [the afore
 
 Drop me a message at the email address listed in my GitHub profile and we'll schedule a meeting on [cal.com/icflorescu](https://cal.com/icflorescu).
 
-[^1]: For a while I couldn't find the time and motivation to turn [swapp.ro](https://swapp.ro/) into a real business, and the Romanian Government's digital strategy around e-Factura was (still is) a major clusterduck. So in 2026 I rebuilt it from scratch, e-Factura and all, and opened it up again: free while it's being finished.
-
-[^2]: I'm not really a fan of multistage recruitment processes and taking coding tests.  
+[^1]: I'm not really a fan of multistage recruitment processes and taking coding tests.  
       My open-source projects are being starred and used by lots of developers and companies worldwide, sum up millions of NPM downloads and my coding skills are, therefore, vetted by the community.  
       If you want my help, we will be discussing about project specifics such as its value proposition and how can I contribute to "make it happen", challenges and how to overcome those, risks versus rewards.
