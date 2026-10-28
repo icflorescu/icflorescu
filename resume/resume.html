@@ -1,0 +1,367 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Ionut-Cristian Florescu - Resume</title>
+<meta name="author" content="Ionut-Cristian Florescu">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,700&display=block" rel="stylesheet">
+<style>
+  @page { size: A4; margin: 0 }
+  * { box-sizing: border-box; margin: 0; padding: 0 }
+  :root { --side: #dae0e4; --main: #f1f1f1; --ink: #1f1f1f; --soft: #3a3a3a; --star: #4a3426; --star-off: #9aa1a8; --left: 80mm }
+  body { font-family: 'Open Sans', sans-serif; color: var(--ink); -webkit-print-color-adjust: exact; print-color-adjust: exact }
+  a { color: inherit }
+
+  .page { width: 210mm; height: 297mm; position: relative; overflow: hidden; break-after: page;
+    background: linear-gradient(90deg, var(--side) 0 var(--left), var(--main) var(--left) 100%); display: flex; flex-direction: column }
+  .page:last-child { break-after: auto }
+  .cols { flex: 1; display: grid; grid-template-columns: var(--left) 1fr }
+  .side { padding: 0 9mm 0 12.3mm }
+  .main { padding: 0 11.5mm 12mm 12.4mm; font-weight: 300; font-size: 9.6pt; line-height: 1.45; color: var(--soft) }
+  .page-no { position: absolute; right: 11.5mm; bottom: 0; background: var(--side); font-size: 9pt; padding: 2.4mm 4.5mm }
+
+  h2 { font-size: 11pt; font-weight: 700; letter-spacing: .32em; text-transform: uppercase; color: var(--ink); margin: 0 0 6.5mm }
+  .main p + p, .main p + ul, .main ul + p { margin-top: 3.4mm }
+  .main ul { padding-left: 4.6mm }
+  .main li::marker { font-size: .8em }
+  .main b { font-weight: 700; color: var(--ink) }
+  .main h4 { font-size: 9.6pt; font-weight: 700; color: var(--ink); margin: 3.4mm 0 .6mm }
+
+  /* Header */
+  header { position: relative; padding: 13.5mm 11.5mm 0 12.3mm; height: 77mm }
+  header h1 { font-size: 24pt; font-weight: 300; letter-spacing: .1em; text-transform: uppercase; line-height: 1.1 }
+  header .role { font-size: 12.4pt; font-weight: 700; margin-top: 2.2mm }
+  header .blurb { font-style: italic; font-size: 9.6pt; line-height: 1.55; margin-top: 2.6mm; width: 124mm; color: var(--soft) }
+  header .photo { position: absolute; right: 13mm; top: 11mm; width: 55.5mm; height: 55.5mm; border-radius: 50%; object-fit: cover }
+
+  /* Side column */
+  .side section + section { margin-top: 11mm }
+  .side.spread { display: flex; flex-direction: column; justify-content: space-between; padding-bottom: 12mm }
+  .side.spread section + section { margin-top: 0 }
+  .side.spread .quote:last-child { margin-bottom: 0 }
+  .contact { list-style: none; font-size: 10pt; line-height: 1 }
+  .contact li { display: flex; align-items: center; gap: 2.6mm; height: 7.6mm }
+  .contact img { width: 4.6mm; height: 4.6mm }
+  .contact a { text-decoration: none }
+  .skill { font-size: 10pt; letter-spacing: .03em; margin-bottom: 4.6mm }
+  .stars { font-size: 13pt; letter-spacing: .12em; line-height: 1.2; color: var(--star) }
+  .stars i { font-style: normal; color: var(--star-off) }
+  .side ul.plain { padding-left: 4.6mm; font-size: 10pt; line-height: 1.7 }
+  .likes { display: grid; grid-template-columns: 7mm 1fr; font-size: 10pt; line-height: 1.7 }
+  .likes img { width: 4.6mm; margin-top: 1mm }
+  .likes + .likes { margin-top: 5mm }
+  .qa dt { font-weight: 700; font-style: italic; font-size: 10pt; line-height: 1.45 }
+  .qa dd { font-style: italic; font-size: 10pt; line-height: 1.45; margin-bottom: 5.5mm }
+  .quote { font-style: italic; font-size: 10pt; line-height: 1.5; margin-bottom: 7mm }
+  .article h3 { font-style: italic; font-weight: 700; font-size: 10pt; line-height: 1.45 }
+  .article .date { font-size: 9pt; font-weight: 300; margin: .4mm 0 2.5mm }
+  .article p { font-style: italic; font-weight: 300; font-size: 10pt; line-height: 1.55 }
+  .article + .article { margin-top: 8mm }
+
+  /* Jobs */
+  .job { margin-bottom: 7mm }
+  .job-head { display: grid; grid-template-columns: 25mm 1fr; align-items: center; margin-bottom: 4.2mm }
+  .job-head .logo { width: 21.5mm; height: 21.5mm; object-fit: contain }
+  .job-head .logo.framed { border: .35mm solid #555; border-radius: 2mm; background: #fff; padding: .8mm }
+  .job-head .logo.round { border-radius: 50% }
+  .job-head .title { font-style: italic; font-size: 9.6pt }
+  .job-head .org { font-weight: 700; font-size: 10.4pt; letter-spacing: .05em; color: var(--ink); margin: 1.3mm 0 .6mm }
+  .job-head .when { font-size: 10.4pt; letter-spacing: .05em }
+  .early-logos { width: 62mm; display: block; margin-bottom: 3mm }
+
+  .note { border-top: .3mm solid #9aa1b4; padding-top: 3.5mm; margin-top: 2mm; display: grid; grid-template-columns: 7mm 1fr; font-style: italic }
+  .note img { width: 4.6mm; margin-top: .6mm }
+
+  .spotlight-shot { width: 100%; display: block; margin-bottom: 7mm }
+  .spotlight h3 { font-size: 13pt; letter-spacing: .04em; font-weight: 700; color: var(--ink) }
+  .spotlight .lead { font-style: italic; margin-top: 2mm }
+  .spotlight .when { margin-top: 2mm; font-size: 10pt; letter-spacing: .03em }
+  .spotlight h4 { font-size: 10pt; letter-spacing: .04em; margin-top: 6mm }
+  .users { width: 100%; display: block; margin-top: 5mm }
+</style>
+</head>
+<body>
+
+<!-- Page 1 -->
+<div class="page">
+  <header>
+    <h1>Ionut-Cristian Florescu</h1>
+    <div class="role">Hands-on Fractional CTO, Product Builder &amp; OSS Author</div>
+    <p class="blurb">
+      Founder of <a href="https://swapp.ro/">swapp.ro</a>.
+      Creator of <a href="https://icflorescu.github.io/mantine-datatable/">Mantine DataTable</a>, <a href="https://icflorescu.github.io/mantine-contextmenu/">Mantine ContextMenu</a>, <a href="https://icflorescu.github.io/trpc-sveltekit/">tRPC-SvelteKit</a>, <a href="https://pocketbase-uml.github.io/">PocketBaseUML</a> and <a href="https://github.com/icflorescu#notable-open-source-projects-ive-built-over-the-years">other open-source projects</a> trusted by developers and startups across the world, totaling nearly 3.9k stars on <a href="https://github.com/icflorescu">GitHub</a> and 5.5+ million <a href="https://www.npmstats.info/user/icflorescu?period=last-year">NPM downloads</a> per year.
+      Contributor to <a href="https://trpc.io/">tRPC.io</a>, <a href="https://mantine.dev/">Mantine</a>, <a href="https://github.com/TanStack/create-tsrouter-app">TanStack Application Builders</a>.
+    </p>
+    <img class="photo" src="images/photo.png" alt="">
+  </header>
+  <div class="cols">
+    <div class="side">
+      <section>
+        <h2>Contact</h2>
+        <ul class="contact">
+          <li><img src="images/icons/github.png" alt=""><a href="https://github.com/icflorescu">github.com/icflorescu</a></li>
+          <li><img src="images/icons/linkedin.png" alt=""><a href="https://www.linkedin.com/in/icflorescu/">linkedin.com/in/icflorescu</a></li>
+          <li><img src="images/icons/calendar.png" alt=""><a href="https://cal.com/icflorescu">cal.com/icflorescu</a></li>
+          <li><img src="images/icons/mail.png" alt=""><a href="mailto:ionut.florescu@gmail.com">ionut.florescu@gmail.com</a></li>
+          <li><img src="images/icons/phone.png" alt=""><a href="tel:+40723784997">+40 723 784 997</a></li>
+          <li><img src="images/icons/pin.png" alt=""><a href="https://maps.app.goo.gl/LDHbgNUSSQBj2VKB8">Bucharest, Romania, EU</a></li>
+        </ul>
+      </section>
+      <section>
+        <h2>Relevant skills</h2>
+        <div class="skill">TypeScript / JavaScript<div class="stars">★★★★★★</div></div>
+        <div class="skill">React / TanStack / Next.js<div class="stars">★★★★★★</div></div>
+        <div class="skill">Svelte &amp; SvelteKit<div class="stars">★★★★<i>★★</i></div></div>
+        <div class="skill">Node.js / Bun<div class="stars">★★★★★<i>★</i></div></div>
+        <div class="skill">UI - HTML / DOM / CSS<div class="stars">★★★★★★</div></div>
+        <div class="skill">DB - SQL / PostgreSQL<div class="stars">★★★★★<i>★</i></div></div>
+        <div class="skill">Software Design Patterns<div class="stars">★★★★★<i>★</i></div></div>
+        <div class="skill">AWS / Azure / Vercel<div class="stars">★★<i>★★★★</i></div></div>
+        <div class="skill">Agentic coding workflows<div class="stars">★★★★★★</div></div>
+      </section>
+    </div>
+    <div class="main">
+      <h2>In a nutshell</h2>
+      <p>I take software products from a blank repo to production, and stay to run them for a decade. <b>Building for the web since 1998.</b></p>
+      <p>Hands-on fractional CTO and product builder: I still write production code, and I've also learned which code isn't worth writing. I work daily with AI coding agents, and know where they help and where they don't. Proud and passionate OSS author, contributor and maintainer.</p>
+      <p>Worked for small companies and multinational corporations between 1998 and 2007, with technologies ranging from PHP and MySQL to C#, Java &amp; Oracle. Independent since 2008, as a founder, technical partner and catalyst for commercial and open-source projects.</p>
+      <p>Currently building with <b>TypeScript, React, TanStack Start, tRPC, Drizzle, PostgreSQL and Bun</b>, at home in rule-heavy domains (insurance, leasing, tax) where “almost right” means wrong.</p>
+      <p>Curious by nature, an avid reader of fantasy, fiction, business &amp; tech-related literature, always looking to understand how things work and to make them work better.</p>
+
+      <h2 style="margin-top: 9mm">Relevant work experience</h2>
+      <div class="job">
+        <div class="job-head">
+          <img class="logo framed" src="images/swapp.svg" alt="">
+          <div>
+            <div class="title">Founder | Product Builder</div>
+            <div class="org"><a href="https://swapp.ro/" style="text-decoration: none">swapp.ro</a></div>
+            <div class="when">Since 2021</div>
+          </div>
+        </div>
+        <p>Invoicing and single-entry accounting for Romanian sole traders and liberal professionals, integrated with ANAF's e-Factura. Built in 2021 for my own books, rebuilt from scratch in 2026, solo, in five months: product, design and code. Live since October 2026.</p>
+        <ul style="margin-top: 2.4mm">
+          <li>TanStack Start, React 19, TypeScript, tRPC</li>
+          <li>Drizzle ORM &amp; PostgreSQL, Bun</li>
+          <li>e-Factura over ANAF OAuth, UBL invoices, background jobs</li>
+          <li>1,200+ unit tests, Playwright end-to-end tests</li>
+          <li>Self-hosted with Docker &amp; Caddy</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="page-no">1/4</div>
+</div>
+
+<!-- Page 2 -->
+<div class="page" style="padding-top: 13mm">
+  <div class="cols">
+    <div class="side">
+      <section>
+        <h2>Human languages</h2>
+        <ul class="plain">
+          <li>English (C1 - C2)</li>
+          <li>French (A1 - A2)</li>
+          <li>Romanian (native)</li>
+        </ul>
+      </section>
+      <section>
+        <h2>Likes &amp; dislikes</h2>
+        <div class="likes"><img src="images/icons/like.png" alt=""><div>open-source<br>lazy mornings<br>good coffee<br>trekking in the mountains<br>reading fantasy</div></div>
+        <div class="likes"><img src="images/icons/dislike.png" alt=""><div>willful ignorance<br>hypocrisy<br>xenophobia<br>people talking b…t</div></div>
+      </section>
+      <section>
+        <h2>Personal Q&amp;A</h2>
+        <dl class="qa">
+          <dt>What is your super power?</dt><dd>Curiosity.</dd>
+          <dt>What words of wisdom do you live by?</dt><dd>I know enough to know that I don’t know everything.</dd>
+          <dt>Which founder do you most admire?</dt><dd>Certainly not Elon Musk.</dd>
+          <dt>What's the most creative thing you've ever done?</dt><dd>Being a consultant and co-editor for “The King's Host” fantasy novel.</dd>
+          <dt>What's an obstacle you’ve overcome?</dt><dd>Fear of rejection, hopefully.</dd>
+        </dl>
+      </section>
+    </div>
+    <div class="main">
+      <h2>More work experience</h2>
+      <div class="job">
+        <div class="job-head">
+          <img class="logo" src="images/icf.png" alt="">
+          <div>
+            <div class="title">Fractional CTO | Technical Partner<br>OSS Author &amp; Maintainer</div>
+            <div class="org">@icflorescu</div>
+            <div class="when">Since 2008</div>
+          </div>
+        </div>
+        <p>Capitalizing on the previous decade's achievements, I work independently as a fractional CTO, technical partner and open-source author, for customers across the world.</p>
+        <p>Acted as a founder, co-founder, technology partner and catalyst in various projects and initiatives, both commercial and open-source, owning them from design to implementation and operations, and feeling right at home working directly with founders and small-business owners.</p>
+        <p>Please refer to my <a href="https://github.com/icflorescu">GitHub profile</a> for more info on the technologies I’m most comfortable with.</p>
+      </div>
+      <div class="job">
+        <div class="job-head">
+          <img class="logo framed" src="images/leasingsh.png" alt="">
+          <div>
+            <div class="title">Technical Partner | Fractional CTO</div>
+            <div class="org"><a href="https://www.leasingsh.ro/" style="text-decoration: none">LeasingSH.ro</a></div>
+            <div class="when">Since 2013</div>
+          </div>
+        </div>
+        <p>Technical partner for Romania's first online marketplace for new and used cars in leasing or with cash payment, live since 2010. The platform lists 30,000+ cars from 750+ dealers across Romania and Germany, updated daily.</p>
+        <p>I took over the technical side in 2013 as a sweat-equity partner and have owned it end to end since: architecture, code, infrastructure, data and day-to-day operations. Rebuilt three times as the web evolved, keeping the business running through each migration.</p>
+        <h4>V4 (2025 revamp, 1,100+ commits since October 2025)</h4>
+        <ul>
+          <li>TypeScript, Next.js, React 19, tRPC, Mantine, Drizzle ORM &amp; PostgreSQL, self-hosted with Docker &amp; Caddy</li>
+          <li>Data ingestion: scrapers for the main Romanian listing sites, a dealer API and an assisted mobile.de importer, with LLM-based enrichment and automated cleanup of makes, models and trims</li>
+          <li>Custom image processing and storage for all listings</li>
+          <li>Lead tracking across calls, WhatsApp and messages</li>
+          <li>Admin console for dealers and partners, with an editorial CMS</li>
+          <li>Public API with MCP and AI Actions descriptors for AI assistants</li>
+          <li>SEO: structured data, sitemaps, IndexNow, Core Web Vitals</li>
+        </ul>
+        <h4>V3 (2015) and V2 (2013)</h4>
+        <ul>
+          <li>Node.js, modern JavaScript, Jade/Pug, Knex.js &amp; PostgreSQL</li>
+          <li>Node.js, CoffeeScript, Jade/Pug, MongoDB, Amazon S3</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="page-no">2/4</div>
+</div>
+
+<!-- Page 3 -->
+<div class="page" style="padding-top: 13mm">
+  <div class="cols">
+    <div class="side spread">
+      <section>
+        <h2>Favorite stack</h2>
+        <ul class="plain">
+          <li>TypeScript</li>
+          <li>React</li>
+          <li>TanStack Start / Router / Query / Form</li>
+          <li>tRPC</li>
+          <li>Drizzle ORM &amp; PostgreSQL</li>
+          <li>Bun</li>
+          <li>Mantine UI &amp; shadcn/ui</li>
+        </ul>
+      </section>
+      <section>
+        <h2>In my own words</h2>
+        <p class="quote">“If coffee were a programming language, I’d be fluent.”</p>
+        <p class="quote">“AI won’t destroy humanity. Its misuse might, though.”</p>
+        <p class="quote">“AI is inevitable. The returns on it aren’t.”</p>
+        <p class="quote">“Those closest to the system get acceleration. The rest get interpretation.”</p>
+        <p class="quote">“Oil is finite. Fear is renewable.”</p>
+      </section>
+      <section>
+        <h2>Lessons from<br>my journey</h2>
+        <p class="quote">“When it comes to code, less is more.”</p>
+        <p class="quote">“Becoming a field expert takes 10,000 hours, passion and curiosity. There are no shortcuts.”</p>
+        <p class="quote">“Creating open-source software is hard work, offers no material rewards, and demands a lot of passion and dedication.<br>I have no rational explanation for doing it.<br>I’m probably just insane.”</p>
+      </section>
+    </div>
+    <div class="main">
+      <h2>More work experience</h2>
+      <div class="job">
+        <div class="job-head">
+          <img class="logo round" src="images/ajm.png" alt="">
+          <div>
+            <div class="title">Senior Full-Stack Developer</div>
+            <div class="org">AJM Fleet Purchase</div>
+            <div class="when">2020 — 2023</div>
+          </div>
+        </div>
+        <p>Built the <a href="https://ajm-fleetpurchase.com/">automotive fleet purchase management application</a> for AJM Business Services, an independent car trading company based in Belgium/Romania that specializes in B2B international fleet trading.</p>
+        <ul style="margin-top: 2.4mm">
+          <li>React/Next.js, TypeScript, Blueprint.js + SCSS modules</li>
+          <li>GraphQL / Hasura, PostgreSQL</li>
+          <li>Amazon Lightsail with Docker, Amazon S3 storage</li>
+        </ul>
+      </div>
+      <div class="job">
+        <div class="job-head">
+          <img class="logo framed" src="images/investment-romania.png" alt="">
+          <div>
+            <div class="title">Tech Partner | Real-Estate Investment Advisor</div>
+            <div class="org">Investment Romania</div>
+            <div class="when">2008 — 2013</div>
+          </div>
+        </div>
+        <p>Following the experience accumulated while working for financial institutions, became part of a private-equity investment group focusing on the Bucharest residential real-estate market.</p>
+        <p>The perfect timing helped me break even, gaining a comfortable degree of financial independence and earning the privilege of being able to carefully pick my projects and work not only for money, but also for fun, challenge and to support my moral values.</p>
+      </div>
+      <div class="job">
+        <img class="early-logos" src="images/early-career.png" alt="">
+        <div class="title" style="font-style: italic">From Software Developer to IT Manager in various companies</div>
+        <div class="org" style="font-weight: 700; font-size: 10.4pt; letter-spacing: .05em; color: var(--ink); margin: 1.3mm 0 .6mm">Allianz, Garanta/NBG, Frifugl, ANEVAR, etc.</div>
+        <div style="font-size: 10.4pt; letter-spacing: .05em; margin-bottom: 2mm">1998 — 2007</div>
+        <p>Started my career in 1998, working as a network administrator for the first publicly-open Internet in Bucharest, then as a webmaster for the National Association of Romanian Valuers.</p>
+        <p>Worked as a web / software developer, from small companies such as Logic D&amp;D Advertising and Frifugl Design AS to multinational financial corporations such as Allianz-Țiriac Romania and Garanta Insurance / National Bank of Greece, with PHP &amp; MySQL, Java / J2EE + Sybase, and C#/.NET + Oracle &amp; SQL Server.</p>
+        <p>While at Allianz, I was part of a core team of software engineers laying out the foundation of what was to become one of the best insurance software systems based on Microsoft .NET &amp; Oracle RDBMS.</p>
+      </div>
+      <div class="note">
+        <img src="images/icons/bulb.png" alt="">
+        <p>This is a short version of my resume; nearly three decades won't fit in a few pages. The full one is on <a href="https://www.linkedin.com/in/icflorescu/">LinkedIn</a>, but I’d be happier if you visited my <a href="https://github.com/icflorescu">GitHub</a>, which tells a better story of who I am, what I do and how I like to put my skills to use.</p>
+      </div>
+    </div>
+  </div>
+  <div class="page-no">3/4</div>
+</div>
+
+<!-- Page 4 -->
+<div class="page" style="padding-top: 13mm">
+  <div class="cols">
+    <div class="side">
+      <section>
+        <h2>Articles</h2>
+        <div class="article">
+          <h3>The Ducks Have Landed</h3>
+          <div class="date">Oct 2026</div>
+          <p>I use AI every day and <a href="https://www.linkedin.com/pulse/ducks-have-landed-ionut-cristian-florescu-yaarf/">I’m not betting against it</a>. The technology is real; the financials behind it are fragile.</p>
+        </div>
+        <div class="article">
+          <h3>On the Curious Selectivity of One-Way Flights</h3>
+          <div class="date">Jan 2026</div>
+          <p>Why calls for decisive action against authoritarian leaders are applied so selectively, and why <a href="https://www.linkedin.com/pulse/curious-selectivity-one-way-flights-ionut-cristian-florescu-aeyef/">tyrants are safest</a> not when they are feared, but when they are profitable.</p>
+        </div>
+        <div class="article">
+          <h3>Introducing PocketBaseUML</h3>
+          <div class="date">Mar 2023</div>
+          <p>PocketBase comes with a fantastic UI (better than Supabase or Firebase, IMO), but I thought it was missing a graphical view of the database architecture. <a href="https://www.linkedin.com/pulse/introducing-pocketbaseuml-ionut-cristian-florescu/">That’s why</a> I created <a href="https://pocketbase-uml.github.io/">PocketBaseUML</a>, a free, open-source UML diagram generator/viewer.</p>
+        </div>
+        <div class="article">
+          <h3>Lean diffs for browser-based text editors</h3>
+          <div class="date">Jan 2016</div>
+          <p><a href="https://medium.com/@icflorescu/lean-diffs-for-browser-based-text-editors-46e363bc6dfe">A study</a> on the internal mechanics of online publishing systems, from blogs to social networks: some people produce content for others to read, and an important part of it is still the almighty <b>text</b>.</p>
+        </div>
+        <div class="article">
+          <h3>Open-source, capitalism and democracy</h3>
+          <div class="date">Nov 2014</div>
+          <p>I earn part of my living by building commercial software and web applications, and yet I’m also a contributor and keen advocate of free software and the open-source development model. Read <a href="https://medium.com/@icflorescu/open-source-capitalism-and-democracy-c71f025b6eba">the article</a> to learn why.</p>
+        </div>
+      </section>
+    </div>
+    <div class="main spotlight">
+      <h2>OSS project spotlight</h2>
+      <img class="spotlight-shot" src="images/datatable.png" alt="">
+      <h3><a href="https://icflorescu.github.io/mantine-datatable/" style="text-decoration: none">Mantine DataTable</a></h3>
+      <p class="lead">The lightweight, dependency-free table component that brings datagrid-like functionality to data-rich user interfaces built with Mantine UI framework, with dark-mode support and intuitive Gmail-style additive batch rows selection out of the box.</p>
+      <div class="when">Since August 2022</div>
+      <h4>Lightweight yet customizable</h4>
+      <p>Supports asynchronous data loading, pagination, intuitive rows selection, column sorting, custom cell data rendering, context menus, row expansion, nesting and more.</p>
+      <h4>TypeScript based</h4>
+      <p>The entire codebase is written in TypeScript, options are well typed and documented with JSDoc, so you can build type-safe applications with confidence.</p>
+      <h4>Free and open-source</h4>
+      <p>Released under the MIT license, same as <a href="https://mantine.dev/">Mantine</a>, so you can freely build fantastic data-rich applications with it.</p>
+      <h4>Use anywhere</h4>
+      <p>Works in any modern React framework supported by Mantine, such as Next.js, Vite, React Router or TanStack Start.</p>
+      <h4>Trusted by awesome companies and developers</h4>
+      <p>Used and trusted by developers across the world working in successful startups and projects: 1,250+ GitHub stars, 30 contributors, 249 releases, a legacy version still maintained for teams that can't upgrade yet, and over 500k monthly NPM downloads in October 2026.</p>
+      <img class="users" src="images/datatable-users.png" alt="">
+    </div>
+  </div>
+  <div class="page-no">4/4</div>
+</div>
+
+</body>
+</html>

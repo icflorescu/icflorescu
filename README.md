@@ -4,7 +4,7 @@
 [![Followers on GitHub](https://img.shields.io/github/followers/icflorescu?style=flat-square&logo=github)](https://github.com/icflorescu?tab=followers)
 [![Sponsor my work](https://img.shields.io/badge/sponsor-violet?style=flat-square)](https://github.com/sponsors/icflorescu)
 
-A hands-on fractional CTO, product builder and open-source author from Bucharest, Romania, EU, building for the web since 1998 ([download résumé](https://raw.githubusercontent.com/icflorescu/icflorescu/main/ionut-cristian-florescu--resume.pdf)).  
+A hands-on fractional CTO, product builder and open-source author from Bucharest, Romania, EU, building for the web since 1998 (résumé: [view](https://github.com/icflorescu/icflorescu/blob/main/ionut-cristian-florescu--resume.pdf) / [download](https://raw.githubusercontent.com/icflorescu/icflorescu/main/ionut-cristian-florescu--resume.pdf)).  
 I take software products from a blank repo to production, and stay to run them for a decade. I still write production code; I've also learned which code isn't worth writing.  
 Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to understand how things work and to make them work better.  
 
@@ -26,7 +26,7 @@ Rebuilt from scratch in 2026, solo, in five months, on TanStack Start, tRPC, Dri
 
 ### Everything else
 
-Creator of [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) (~400k npm downloads a month), [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) and [PocketBaseUML](https://pocketbase-uml.github.io).  
+Creator of [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) (~500k npm downloads a month), [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) and [PocketBaseUML](https://pocketbase-uml.github.io).  
 Also built [Next.js Parallel Server Actions](https://github.com/icflorescu/next-server-actions-parallel), [Expose-WSL](https://github.com/icflorescu/expose-wsl), [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years).  
 On the commercial side, I've been the technical partner behind [LeasingSH.ro](https://www.leasingsh.ro/) since 2013.
 
