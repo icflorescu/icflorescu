@@ -8,6 +8,22 @@ A hands-on fractional CTO, product builder and open-source author from Bucharest
 I take software products from a blank repo to production, and stay to run them for a decade. I still write production code; I've also learned which code isn't worth writing.  
 Curious by nature, an avid reader of fantasy, fiction, history & tech-related literature, always looking to understand how things work and to make them work better.  
 
+### Open source
+
+<a href="https://icflorescu.github.io/mantine-datatable/"><img src="assets/mantine-datatable-home.png" alt="Mantine DataTable: the table component for your data-rich Mantine applications" width="100%" /></a>
+
+Creator of [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), the table component for data-rich [Mantine](https://mantine.dev) applications: ~650k npm downloads a month, used by companies such as Microsoft and Namecheap. Async data loading, pagination, sorting, row selection, row expansion, row context menus and dark-theme support, all fully typed.
+
+Also the author of [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit), [PocketBaseUML](https://pocketbase-uml.github.io), [Next.js Parallel Server Actions](https://github.com/icflorescu/next-server-actions-parallel), [Expose-WSL](https://github.com/icflorescu/expose-wsl), [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years), and a contributor to Mantine and tRPC.
+
+<p>
+  <a href="https://icflorescu.github.io/mantine-contextmenu/"><img src="assets/mantine-contextmenu.png" alt="Mantine ContextMenu" height="160" /></a>
+  <a href="https://icflorescu.github.io/trpc-sveltekit/"><img src="assets/trpc-sveltekit.png" alt="tRPC-SvelteKit" height="160" /></a>
+  <a href="https://pocketbase-uml.github.io/"><img src="assets/pocketbase-uml.png" alt="PocketBaseUML" height="160" /></a>
+</p>
+
+![@icflorescu on GitHub](assets/trophy.svg)
+
 ### Currently building: [swapp.ro](https://swapp.ro/)
 
 <a href="https://swapp.ro/"><img src="assets/swapp-dashboard.png" alt="The swapp.ro dashboard: deadlines, overdue invoices and money owed, at a glance" width="100%" /></a>
@@ -26,16 +42,7 @@ Rebuilt from scratch in 2026, solo, in five months, on TanStack Start, tRPC, Dri
 
 ### Everything else
 
-Creator of [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) (~500k npm downloads a month), [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit) and [PocketBaseUML](https://pocketbase-uml.github.io).  
-Also built [Next.js Parallel Server Actions](https://github.com/icflorescu/next-server-actions-parallel), [Expose-WSL](https://github.com/icflorescu/expose-wsl), [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years).  
 On the commercial side, I've been the technical partner behind [LeasingSH.ro](https://www.leasingsh.ro/) since 2013.
-
-<p>
-  <a href="https://icflorescu.github.io/mantine-datatable/"><img src="assets/mantine-datatable.png" alt="Mantine DataTable" height="160" /></a>
-  <a href="https://icflorescu.github.io/mantine-contextmenu/"><img src="assets/mantine-contextmenu.png" alt="Mantine ContextMenu" height="160" /></a>
-  <a href="https://icflorescu.github.io/trpc-sveltekit/"><img src="assets/trpc-sveltekit.png" alt="tRPC-SvelteKit" height="160" /></a>
-  <a href="https://pocketbase-uml.github.io/"><img src="assets/pocketbase-uml.png" alt="PocketBaseUML" height="160" /></a>
-</p>
 
 <p>
   <a href="https://www.leasingsh.ro/"><img src="assets/leasingsh.png" alt="LeasingSH.ro" height="160" /></a>
@@ -49,10 +56,6 @@ Owner / Jack of all trades @ [swapp.ro](https://swapp.ro/).
 Ex [Allianz](https://www.allianz.com/en.html), [National Bank of Greece](https://www.nbg.gr/en) and [AJM FleetPurchase](https://ajm-fleetpurchase.com/).  
 Co-owner of [Yadda](https://yadda.ro).  
 ~~Doing stuff at [SegmentX.ai/SalesPlay](https://salesplayx.com/).~~  
-
-## OSS activity
-
-![@icflorescu on GitHub](assets/trophy.svg)  
 
 ## Current tech-stack
 
