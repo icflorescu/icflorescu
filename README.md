@@ -28,17 +28,20 @@ Also the author of [Mantine ContextMenu](https://icflorescu.github.io/mantine-co
 
 <a href="https://swapp.ro/"><img src="assets/swapp-dashboard.png" alt="The swapp.ro dashboard: deadlines, overdue invoices and money owed, at a glance" width="100%" /></a>
 
-I designed and built it, and now I run it: invoicing and single-entry accounting for Romanian freelancers (PFA, ÎI and PFI) who aren't VAT-registered. You record each transaction once, and the app works out the rest:
+Invoicing and single-entry accounting for Romanian freelancers (PFAs, ÎIs and PFIs) who aren't VAT-registered. I designed and built it, and now I run it.
 
-- invoices in RON or foreign currencies, sent through ANAF's e-Factura over OAuth, with supplier invoices downloaded in the background
-- the mandatory ledgers, kept in real time, with foreign amounts at the daily BNR rate
-- the figures for the D212, D390 and D301 returns, in the order the forms ask for them
-- running CAS, CASS and income tax estimates, plus a free public [PFA tax calculator](https://swapp.ro/taxe-pfa)
-- help on every screen that explains the tax rule and cites the article of law
+The idea is simple: you record each transaction once, and everything that follows from it is worked out for you:
 
-Rebuilt from scratch in 2026, solo, in five months, on TanStack Start, tRPC, Drizzle, PostgreSQL and Bun, self-hosted with Docker and Caddy. Live since October 2026, free while it's being finished, and I use it for my own books.
+- invoices in RON or foreign currencies, in Romanian or English, sent through ANAF's e-Factura, with supplier invoices collected in the background
+- the three mandatory ledgers, always up to date, with foreign amounts at the BNR rate
+- the figures for the D212, D390 and D301 returns, in the order the forms ask for them, and when each one is due
+- CAS, CASS and income tax estimates as the year goes, plus a free public [PFA tax calculator](https://swapp.ro/taxe-pfa)
+- access for an accountant, as an editor or a read-only viewer
+- help on every screen that explains the rule and cites the article of law
 
-**A Romanian freelancer? [Give it a try](https://swapp.ro/inregistrare).** Know one? Send them the link.
+Rebuilt from scratch in 2026, solo, in five months, on TanStack Start, tRPC, Drizzle, PostgreSQL and Bun, running in Docker behind Caddy, on a server in a Romanian data centre, with backups kept in the EU. Live since October 2026, free while it's being finished, and I keep my own books in it.
+
+**Are you a Romanian freelancer? [Give it a try](https://swapp.ro/inregistrare).** Know someone who is? Send them the link.
 
 ### Everything else
 
