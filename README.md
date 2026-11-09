@@ -28,7 +28,7 @@ Also the author of [Mantine ContextMenu](https://icflorescu.github.io/mantine-co
 
 <a href="https://swapp.ro/"><img src="assets/swapp-dashboard.png" alt="The swapp.ro dashboard: deadlines, overdue invoices and money owed, at a glance" width="100%" /></a>
 
-Invoicing and single-entry accounting for Romanian freelancers (PFAs, ÎIs and PFIs) who aren't VAT-registered. I designed and built it, and now I run it.
+Invoicing and single-entry accounting for Romanian freelancers (PFAs, ÎIs and PFIs) who aren't VAT-registered. I own it end to end: product, design, code and operations.
 
 The idea is simple: you record each transaction once, and everything that follows from it is worked out for you:
 
