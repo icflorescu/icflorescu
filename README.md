@@ -12,7 +12,7 @@ Curious by nature, an avid reader of fantasy, fiction, history & tech-related li
 
 <a href="https://icflorescu.github.io/mantine-datatable/"><img src="assets/mantine-datatable-home.png" alt="Mantine DataTable: the table component for your data-rich Mantine applications" width="100%" /></a>
 
-Creator of [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), the table component for data-rich [Mantine](https://mantine.dev) applications: ~650k npm downloads a month, used by companies such as Microsoft and Namecheap. Async data loading, pagination, sorting, row selection, row expansion, row context menus and dark-theme support, all fully typed.
+Creator of [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), the table component for data-rich [Mantine](https://mantine.dev) applications: 600k+ npm downloads a month, used by companies such as Microsoft and Namecheap. Async data loading, pagination, sorting, row selection, row expansion, row context menus and dark-theme support, all fully typed.
 
 Also the author of [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit), [PocketBaseUML](https://pocketbase-uml.github.io), [Next.js Parallel Server Actions](https://github.com/icflorescu/next-server-actions-parallel), [Expose-WSL](https://github.com/icflorescu/expose-wsl), [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years), and a contributor to Mantine and tRPC.
 
