@@ -24,11 +24,11 @@ Also the author of [Mantine ContextMenu](https://icflorescu.github.io/mantine-co
 
 ![@icflorescu on GitHub](assets/trophy.svg)
 
-### Currently building: [swapp.ro](https://swapp.ro/)
+### My own product: [swapp.ro](https://swapp.ro/)
 
 <a href="https://swapp.ro/"><img src="assets/swapp-dashboard.png" alt="The swapp.ro dashboard: deadlines, overdue invoices and money owed, at a glance" width="100%" /></a>
 
-A product I design, build and run on my own: invoicing and single-entry accounting for Romanian freelancers (PFA, ÎI and PFI) who aren't VAT-registered. You record each transaction once, and the app works out the rest:
+I designed and built it, and now I run it: invoicing and single-entry accounting for Romanian freelancers (PFA, ÎI and PFI) who aren't VAT-registered. You record each transaction once, and the app works out the rest:
 
 - invoices in RON or foreign currencies, sent through ANAF's e-Factura over OAuth, with supplier invoices downloaded in the background
 - the mandatory ledgers, kept in real time, with foreign amounts at the daily BNR rate
