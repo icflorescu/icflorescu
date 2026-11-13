@@ -17,9 +17,9 @@ Creator of [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/),
 Also the author of [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit), [PocketBaseUML](https://pocketbase-uml.github.io), [Next.js Parallel Server Actions](https://github.com/icflorescu/next-server-actions-parallel), [Expose-WSL](https://github.com/icflorescu/expose-wsl), [IISExpress-Proxy](https://github.com/icflorescu/iisexpress-proxy) and [other open-source projects](#notable-open-source-projects-ive-built-over-the-years), and a contributor to Mantine and tRPC.
 
 <p>
-  <a href="https://icflorescu.github.io/mantine-contextmenu/"><img src="assets/mantine-contextmenu.png" alt="Mantine ContextMenu" height="160" /></a>
-  <a href="https://icflorescu.github.io/trpc-sveltekit/"><img src="assets/trpc-sveltekit.png" alt="tRPC-SvelteKit" height="160" /></a>
-  <a href="https://pocketbase-uml.github.io/"><img src="assets/pocketbase-uml.png" alt="PocketBaseUML" height="160" /></a>
+  <a href="https://icflorescu.github.io/mantine-contextmenu/"><img src="assets/mantine-contextmenu.png" alt="Mantine ContextMenu" height="200" /></a>
+  <a href="https://icflorescu.github.io/trpc-sveltekit/"><img src="assets/trpc-sveltekit.png" alt="tRPC-SvelteKit" height="200" /></a>
+  <a href="https://pocketbase-uml.github.io/"><img src="assets/pocketbase-uml.png" alt="PocketBaseUML" height="200" /></a>
 </p>
 
 ![@icflorescu on GitHub](assets/trophy.svg)
@@ -48,9 +48,9 @@ Rebuilt from scratch in 2026, solo, in five months, on TanStack Start, tRPC, Dri
 On the commercial side, I've been the technical partner behind [LeasingSH.ro](https://www.leasingsh.ro/) since 2013.
 
 <p>
-  <a href="https://www.leasingsh.ro/"><img src="assets/leasingsh.png" alt="LeasingSH.ro" height="160" /></a>
-  <a href="https://yadda.ro/"><img src="assets/yadda.png" alt="Yadda" height="160" /></a>
-  <a href="https://boutiquetravel.ro/"><img src="assets/boutiquetravel.png" alt="Boutique Travel" height="160" /></a>
+  <a href="https://www.leasingsh.ro/"><img src="assets/leasingsh.png" alt="LeasingSH.ro" height="200" /></a>
+  <a href="https://yadda.ro/"><img src="assets/yadda.png" alt="Yadda" height="200" /></a>
+  <a href="https://boutiquetravel.ro/"><img src="assets/boutiquetravel.png" alt="Boutique Travel" height="200" /></a>
 </p>
 
 Open to fractional CTO and technical partner roles for early-stage products, and to sweat-equity partnerships where I own the technical side.  
