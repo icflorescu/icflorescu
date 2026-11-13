@@ -1,8 +1,8 @@
 
     <svg
-      width="440"
-      height="220"
-      viewBox="0 0 440 220"
+      width="470"
+      height="230"
+      viewBox="0 0 470 230"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
@@ -22,9 +22,9 @@
             rx="4.5"
             width="109"
             height="109"
-            stroke="#e1e4e8"
+            stroke="#8C8C96"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0.65"
             fill-opacity="1"
           />
           
@@ -88,7 +88,7 @@
         </svg>
         
         <svg
-          x="110"
+          x="120"
           y="0"
           width="110"
           height="110"
@@ -102,9 +102,9 @@
             rx="4.5"
             width="109"
             height="109"
-            stroke="#e1e4e8"
+            stroke="#8C8C96"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0.65"
             fill-opacity="1"
           />
           
@@ -168,7 +168,7 @@
         </svg>
         
         <svg
-          x="220"
+          x="240"
           y="0"
           width="110"
           height="110"
@@ -182,9 +182,9 @@
             rx="4.5"
             width="109"
             height="109"
-            stroke="#e1e4e8"
+            stroke="#8C8C96"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0.65"
             fill-opacity="1"
           />
           
@@ -248,7 +248,7 @@
         </svg>
         
         <svg
-          x="330"
+          x="360"
           y="0"
           width="110"
           height="110"
@@ -262,9 +262,9 @@
             rx="4.5"
             width="109"
             height="109"
-            stroke="#e1e4e8"
+            stroke="#8C8C96"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0.65"
             fill-opacity="1"
           />
           
@@ -368,7 +368,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         
         <svg
           x="0"
-          y="110"
+          y="120"
           width="110"
           height="110"
           viewBox="0 0 110 110"
@@ -381,9 +381,9 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             rx="4.5"
             width="109"
             height="109"
-            stroke="#e1e4e8"
+            stroke="#8C8C96"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0.65"
             fill-opacity="1"
           />
           
@@ -486,8 +486,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="110"
-          y="110"
+          x="120"
+          y="120"
           width="110"
           height="110"
           viewBox="0 0 110 110"
@@ -500,9 +500,9 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             rx="4.5"
             width="109"
             height="109"
-            stroke="#e1e4e8"
+            stroke="#8C8C96"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0.65"
             fill-opacity="1"
           />
           
@@ -596,8 +596,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="220"
-          y="110"
+          x="240"
+          y="120"
           width="110"
           height="110"
           viewBox="0 0 110 110"
@@ -610,9 +610,9 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             rx="4.5"
             width="109"
             height="109"
-            stroke="#e1e4e8"
+            stroke="#8C8C96"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0.65"
             fill-opacity="1"
           />
           
@@ -706,8 +706,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="330"
-          y="110"
+          x="360"
+          y="120"
           width="110"
           height="110"
           viewBox="0 0 110 110"
@@ -720,9 +720,9 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             rx="4.5"
             width="109"
             height="109"
-            stroke="#e1e4e8"
+            stroke="#8C8C96"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0.65"
             fill-opacity="1"
           />
           
@@ -808,7 +808,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         
         <svg
           x="0"
-          y="220"
+          y="240"
           width="110"
           height="110"
           viewBox="0 0 110 110"
@@ -821,9 +821,9 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             rx="4.5"
             width="109"
             height="109"
-            stroke="#e1e4e8"
+            stroke="#8C8C96"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0.65"
             fill-opacity="1"
           />
           
@@ -908,8 +908,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="110"
-          y="220"
+          x="120"
+          y="240"
           width="110"
           height="110"
           viewBox="0 0 110 110"
@@ -922,9 +922,9 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             rx="4.5"
             width="109"
             height="109"
-            stroke="#e1e4e8"
+            stroke="#8C8C96"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0.65"
             fill-opacity="1"
           />
           
@@ -1027,8 +1027,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="220"
-          y="220"
+          x="240"
+          y="240"
           width="110"
           height="110"
           viewBox="0 0 110 110"
@@ -1041,9 +1041,9 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             rx="4.5"
             width="109"
             height="109"
-            stroke="#e1e4e8"
+            stroke="#8C8C96"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0.65"
             fill-opacity="1"
           />
           
