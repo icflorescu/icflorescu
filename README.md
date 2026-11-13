@@ -45,7 +45,8 @@ Rebuilt from scratch in 2026, solo, in five months, on TanStack Start, tRPC, Dri
 
 ### Everything else
 
-On the commercial side, I've been the technical partner behind [LeasingSH.ro](https://www.leasingsh.ro/) since 2013.
+- **Now:** fractional CTO and sweat-equity partner at [LeasingSH.ro](https://www.leasingsh.ro/) since 2013, owner and jack of all trades at [swapp.ro](https://swapp.ro/), co-owner of [Yadda](https://yadda.ro)
+- **Before:** [Allianz](https://www.allianz.com/en.html), [National Bank of Greece](https://www.nbg.gr/en) and [AJM FleetPurchase](https://ajm-fleetpurchase.com/)
 
 <p>
   <a href="https://www.leasingsh.ro/"><img src="assets/leasingsh.png" alt="LeasingSH.ro" height="200" /></a>
@@ -53,36 +54,19 @@ On the commercial side, I've been the technical partner behind [LeasingSH.ro](ht
   <a href="https://boutiquetravel.ro/"><img src="assets/boutiquetravel.png" alt="Boutique Travel" height="200" /></a>
 </p>
 
-Open to fractional CTO and technical partner roles for early-stage products, and to sweat-equity partnerships where I own the technical side.  
-Fractional CTO and sweat-equity partner at [LeasingSH.ro](https://www.leasingsh.ro/).  
-Owner / Jack of all trades @ [swapp.ro](https://swapp.ro/).  
-Ex [Allianz](https://www.allianz.com/en.html), [National Bank of Greece](https://www.nbg.gr/en) and [AJM FleetPurchase](https://ajm-fleetpurchase.com/).  
-Co-owner of [Yadda](https://yadda.ro).  
-~~Doing stuff at [SegmentX.ai/SalesPlay](https://salesplayx.com/).~~  
-
 ## Current tech-stack
 
-- **TypeScript/JavaScript**
-- **Node.js and [Bun](https://bun.sh/)**
-- **[TanStack](https://tanstack.com/) Start, Router, Query & Form, React, Next.js, Remix/React Router**, but I'm also **interested in Svelte/SvelteKit**
-- **React UI Frameworks** I've been working with:
-  - **[Mantine](https://mantine.dev) — I'm a contributor and also the author of [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) and [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/)**
-  - **[shadcn/ui](https://ui.shadcn.com/) over [Base UI](https://base-ui.com/)**, which is what [swapp.ro](https://swapp.ro) is built with
-  - **[Ant Design](https://ant.design/components/overview/)**
-  - **[MaterialUI](https://mui.com/)**
-  - **[Blueprint.js](https://blueprintjs.com/)**
-- **[tRPC](https://trpc.io) — I'm a contributor and the creator of [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit)** and **[tRPC-Transformer](https://github.com/icflorescu/trpc-transformer)**
-- **PostgreSQL, [DrizzleORM](https://orm.drizzle.team/)**, [Prisma](https://www.prisma.io/)/[ZenStack](https://zenstack.dev/), [Knex.js](https://knexjs.org/), [Kysely](https://kysely.dev/), [Hasura](https://hasura.io/)
-- SQL in general; I have designed enterprise SQL Server/Oracle DB architectures while working for multinational companies in the past
-- [Valtio](https://valtio.dev/docs/introduction/getting-started), [Zustand](https://zustand.docs.pmnd.rs/getting-started/introduction) & [Jotai](https://jotai.org/) — I favor modern state-management solutions over plain Redux
-- Worked with **[NextAuth/Auth.js](https://authjs.dev/)** and **Firebase** (mostly firebase-auth), but these days I'm just as happy rolling my own sessions
-- [PocketBase](https://pocketbase.io/) — I'm a fan of the lightest "back-end in one file" solution and **the creator of [PocketBaseUML](https://pocketbase-uml.github.io/)**
+- **TypeScript/JavaScript** on **Node.js and [Bun](https://bun.sh/)**
+- **[TanStack](https://tanstack.com/) Start, Router, Query & Form, React, Next.js**, but I'm also **interested in Svelte/SvelteKit**
+- **[Mantine](https://mantine.dev)** — I'm a contributor and the author of **[Mantine DataTable](https://icflorescu.github.io/mantine-datatable/)** and **[Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/)**
+- **[shadcn/ui](https://ui.shadcn.com/) over [Base UI](https://base-ui.com/)** and **Tailwind CSS 4**, which is what [swapp.ro](https://swapp.ro) is built with
+- **[tRPC](https://trpc.io)** — I'm a contributor and the creator of **[tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit)** and **[tRPC-Transformer](https://github.com/icflorescu/trpc-transformer)**
+- **PostgreSQL and [DrizzleORM](https://orm.drizzle.team/)**, and SQL in general; I've designed enterprise SQL Server/Oracle DB architectures while working for multinational companies
 - **Docker & [Caddy](https://caddyserver.com/)** on a plain VPS — I self-host what I build, with no cloud bill to dread
-- I have a few CSS tricks up my sleeve, a good understanding of the DOM, I'm fluent with CSS-in-JS, SASS/CSS-Modules, PostCSS, Emotion and I'm even good-enough at creating website/application designs *from scratch*; here are some examples:
-  - The docs websites for [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit/) and [ASPAX](https://aspax.github.io)
-  - [swapp.ro](https://swapp.ro), [yadda.ro](https://yadda.ro), [boutiquetravel.ro](https://boutiquetravel.ro/), [interiordelight™️](https://interiordelight.github.io/), [King's Host](https://kingshost.github.io/), [AJM Fleet Purchase](https://ajm-fleetpurchase.com/), [sellcarbuycar.com](https://sellcarbuycar.com/), [LeasingSH.ro](https://www.leasingsh.ro/), [PocketBaseUML](https://pocketbase-uml.github.io/)
+- [PocketBase](https://pocketbase.io/) — I'm a fan of the lightest "back-end in one file" solution and **the creator of [PocketBaseUML](https://pocketbase-uml.github.io/)**
+- CSS and design: a few CSS tricks up my sleeve, a good understanding of the DOM, fluent with CSS-in-JS, SASS/CSS-Modules and PostCSS, and good enough to design websites and applications *from scratch*, for example the docs websites for [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/), [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit/) and [ASPAX](https://aspax.github.io), as well as [swapp.ro](https://swapp.ro), [yadda.ro](https://yadda.ro), [boutiquetravel.ro](https://boutiquetravel.ro/), [interiordelight™️](https://interiordelight.github.io/), [King's Host](https://kingshost.github.io/), [AJM Fleet Purchase](https://ajm-fleetpurchase.com/), [sellcarbuycar.com](https://sellcarbuycar.com/), [LeasingSH.ro](https://www.leasingsh.ro/) and [PocketBaseUML](https://pocketbase-uml.github.io/)
 
-These days I'm happily using Tailwind too: [swapp.ro](https://swapp.ro) is Tailwind CSS 4 and shadcn/ui all the way down.
+Also worked with: Remix/React Router, [Ant Design](https://ant.design/components/overview/), [MaterialUI](https://mui.com/), [Blueprint.js](https://blueprintjs.com/), [Prisma](https://www.prisma.io/)/[ZenStack](https://zenstack.dev/), [Knex.js](https://knexjs.org/), [Kysely](https://kysely.dev/), [Hasura](https://hasura.io/), [Valtio](https://valtio.dev/docs/introduction/getting-started), [Zustand](https://zustand.docs.pmnd.rs/getting-started/introduction), [Jotai](https://jotai.org/), Emotion, [NextAuth/Auth.js](https://authjs.dev/) and Firebase, though these days I'm just as happy rolling my own sessions.
 
 ## Things I've worked with in the Dark Ages
 
@@ -143,5 +127,5 @@ If you want to hire me, please consider that I'm most productive with [the afore
 Drop me a message at the email address listed in my GitHub profile and we'll schedule a meeting on [cal.com/icflorescu](https://cal.com/icflorescu).
 
 [^1]: I'm not really a fan of multistage recruitment processes and taking coding tests.  
-      My open-source projects are being starred and used by lots of developers and companies worldwide, sum up millions of NPM downloads and my coding skills are, therefore, vetted by the community.  
-      If you want my help, we will be discussing about project specifics such as its value proposition and how can I contribute to "make it happen", challenges and how to overcome those, risks versus rewards.
+      My open-source projects are starred and used by lots of developers and companies worldwide and add up to millions of npm downloads, so my coding skills are already vetted by the community.  
+      If you want my help, we'll discuss the project itself: its value proposition, how I can contribute to "make it happen", the challenges and how to overcome them, and the risks versus the rewards.
