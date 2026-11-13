@@ -36,7 +36,7 @@ jobs:
           deno run --allow-net --allow-env --allow-read .trophy/main.ts &
           for _ in $(seq 1 60); do curl -s -o /dev/null http://localhost:8080/ && break; sleep 2; done
           # -f: an error page comes with a non-2xx status, and must not replace the last good trophy.
-          curl -sf -o trophy.svg 'http://localhost:8080/?username=icflorescu&column=4&row=2&theme=nord&margin-w=10&margin-h=10'
+          curl -sf -o trophy.svg 'http://localhost:8080/?username=icflorescu&column=4&row=2&theme=nord&margin-w=4&margin-h=4'
           grep -q '<svg' trophy.svg
           # The nord theme frames each card in near-white, which glares on GitHub's dark mode;
           # use the same muted, semi-transparent gray as the README screenshot borders instead.

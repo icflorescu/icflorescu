@@ -24,7 +24,7 @@ Also the author of [Mantine ContextMenu](https://icflorescu.github.io/mantine-co
 
 ![@icflorescu on GitHub](assets/trophy.svg)
 
-### My own product: [swapp.ro](https://swapp.ro/)
+### My own product — swapp.ro
 
 <a href="https://swapp.ro/"><img src="assets/swapp-dashboard.png" alt="The swapp.ro dashboard: deadlines, overdue invoices and money owed, at a glance" width="100%" /></a>
 
@@ -46,7 +46,7 @@ Rebuilt from scratch in 2026, solo, in five months, on TanStack Start, tRPC, Dri
 ### Everything else
 
 - **Now:** fractional CTO and sweat-equity partner at [LeasingSH.ro](https://www.leasingsh.ro/) since 2013, owner and jack of all trades at [swapp.ro](https://swapp.ro/), co-owner of [Yadda](https://yadda.ro)
-- **Before:** [Allianz](https://www.allianz.com/en.html), [National Bank of Greece](https://www.nbg.gr/en) and [AJM FleetPurchase](https://ajm-fleetpurchase.com/)
+- **Before:** [Allianz](https://www.allianz.com/en.html), Garanta (member of the [National Bank of Greece](https://www.nbg.gr/en/group) group) and [AJM FleetPurchase](https://ajm-fleetpurchase.com/)
 
 <p>
   <a href="https://www.leasingsh.ro/"><img src="assets/leasingsh.png" alt="LeasingSH.ro" height="200" /></a>
@@ -54,7 +54,7 @@ Rebuilt from scratch in 2026, solo, in five months, on TanStack Start, tRPC, Dri
   <a href="https://boutiquetravel.ro/"><img src="assets/boutiquetravel.png" alt="Boutique Travel" height="200" /></a>
 </p>
 
-## Current tech-stack
+## Current tech stack
 
 - **TypeScript/JavaScript** on **Node.js and [Bun](https://bun.sh/)**
 - **[TanStack](https://tanstack.com/) Start, Router, Query & Form, React, Next.js**, but I'm also **interested in Svelte/SvelteKit**
@@ -104,7 +104,7 @@ You can find my boring, full-length ~~obituary~~ LinkedIn profile at [linkedin.c
 - I'm at home in rule-heavy domains (insurance, leasing, tax), where "almost right" means wrong
 - I sometimes ~~rant~~ write about technology and its impact on human behaviour in [articles like these](https://www.linkedin.com/in/icflorescu/recent-activity/posts/)
 
-## Hobbies, likes & dislikes
+## Hobbies, likes and dislikes
 
 ❤️ open-source, lazy mornings, good coffee, trekking in the mountains, reading  
 👎 hypocrisy, xenophobia, willful ignorance, people talking bullshit  
@@ -114,13 +114,13 @@ You can find my boring, full-length ~~obituary~~ LinkedIn profile at [linkedin.c
 I'm interested in fractional CTO and technical partner roles for early-stage products, sweat-equity partnerships where I own the technical side, and selected hands-on work.  
 
 You can learn more about what I did over the years by visiting my [LinkedIn profile](https://www.linkedin.com/in/icflorescu/), but since you are on this page, chances are that you already have a pretty good idea of how my skills could be of assistance.  
-If you want to hire me, please consider that I'm most productive with [the aforementioned tech-stack](#current-tech-stack).  
+If you want to hire me, please consider that I'm most productive with [the aforementioned tech stack](#current-tech-stack).  
 
 > [!NOTE]
-> I'm currently getting a constant flow of approaches, some of them relevant, others not so relevant[^1]. Therefore, mentioning in your text that *you've seen my GitHub profile* would:
-> - tell me that you know exactly what you need me for (as opposed to just trying to fill a vacant role);
-> - let me know that my skills would indeed be valuable for you and would spare us both valuable time that we'd otherwise have to spend in trying to assess that;
-> - help me **prioritize your message** and come up with a quick reply.
+> I get quite a few messages, so if you mention that *you've seen my GitHub profile*, it helps a lot[^1]:
+> - it tells me you know what you'd like my help with, rather than just looking to fill a vacant role;
+> - it suggests my skills are a good fit, which saves us both time;
+> - it lets me **prioritize your message** and get back to you quickly.
 
 ## How to approach me
 
