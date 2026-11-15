@@ -1,0 +1,32 @@
+{
+  // Use Biome for this workspace
+  "biome.enabled": true,
+
+  // Disable ESLint and OXC in this workspace
+  "eslint.enable": false,
+  "eslint.validate": [],
+  "oxc.enable": false,
+
+  // Let Biome format supported file types
+  "[javascript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  }
+}
