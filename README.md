@@ -10,7 +10,7 @@ Curious by nature, an avid reader of fantasy, fiction, history & tech-related li
 
 ### Open source
 
-Creator of [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), the table component for data-rich [Mantine](https://mantine.dev) applications: 700k+ npm downloads a month, used by companies such as Microsoft and Namecheap. Async data loading, pagination, sorting, row selection, row expansion, row context menus and dark-theme support, all fully typed.
+Creator of [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), the table component for data-rich [Mantine](https://mantine.dev) applications: 800k+ npm downloads a month, used by companies such as Microsoft and Namecheap. Async data loading, pagination, sorting, row selection, row expansion, row context menus and dark-theme support, all fully typed.
 
 <a href="https://icflorescu.github.io/mantine-datatable/"><img src="assets/mantine-datatable-home.png" alt="Mantine DataTable: the table component for your data-rich Mantine applications" width="100%" /></a>
 
@@ -21,8 +21,6 @@ Also the author of [Mantine ContextMenu](https://icflorescu.github.io/mantine-co
   <a href="https://icflorescu.github.io/trpc-sveltekit/"><img src="assets/trpc-sveltekit.png" alt="tRPC-SvelteKit" height="200" /></a>
   <a href="https://pocketbase-uml.github.io/"><img src="assets/pocketbase-uml.png" alt="PocketBaseUML" height="200" /></a>
 </p>
-
-![@icflorescu on GitHub](assets/trophy.svg)
 
 ### My own product, swapp.ro
 
@@ -125,6 +123,8 @@ If you want to hire me, please consider that I'm most productive with [the afore
 ## How to approach me
 
 Drop me a message at the email address listed in my GitHub profile and we'll schedule a meeting on [cal.com/icflorescu](https://cal.com/icflorescu).
+
+![@icflorescu on GitHub](assets/trophy.svg)
 
 [^1]: I'm not really a fan of multistage recruitment processes and taking coding tests.  
       My open-source projects are starred and used by lots of developers and companies worldwide and add up to millions of npm downloads, so my coding skills are already vetted by the community.  
