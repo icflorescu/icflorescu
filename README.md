@@ -1,8 +1,9 @@
 ## In a nutshell
 
-[![Stars on GitHub repos](https://img.shields.io/github/stars/icflorescu?style=flat-square)](https://github.com/icflorescu#notable-open-source-projects-ive-built-over-the-years)
-[![Followers on GitHub](https://img.shields.io/github/followers/icflorescu?style=flat-square&logo=github)](https://github.com/icflorescu?tab=followers)
-[![Sponsor my work](https://img.shields.io/badge/sponsor-violet?style=flat-square)](https://github.com/sponsors/icflorescu)
+[![icflorescu on GitRanks](https://gitranks.com/badge/user/icflorescu/rank.svg?scheme=classic&label=GitHub+Rank&logo=0)](https://gitranks.com/profile/icflorescu)
+[![Stars on GitHub repos](https://img.shields.io/github/stars/icflorescu?style=flat)](https://github.com/icflorescu#notable-open-source-projects-ive-built-over-the-years)
+[![Followers on GitHub](https://img.shields.io/github/followers/icflorescu?style=flat&logo=github)](https://github.com/icflorescu?tab=followers)
+[![Sponsor my work](https://img.shields.io/badge/sponsor-violet?style=flat)](https://github.com/sponsors/icflorescu)
 
 A hands-on fractional CTO, product builder and open-source author from Bucharest, Romania, EU, building for the web since 1998 (résumé: [view](https://github.com/icflorescu/icflorescu/blob/main/ionut-cristian-florescu--resume.pdf) / [download](https://raw.githubusercontent.com/icflorescu/icflorescu/main/ionut-cristian-florescu--resume.pdf)).  
 I take software products from a blank repo to production, and stay to run them for a decade. I still write production code; I've also learned which code isn't worth writing.  
@@ -35,6 +36,7 @@ The idea is simple: you record each transaction once, and everything that follow
 - the figures for the D212, D390 and D301 returns, in the order the forms ask for them, and when each one is due
 - CAS, CASS and income tax estimates as the year goes, plus a free public [PFA tax calculator](https://swapp.ro/taxe-pfa)
 - access for an accountant, as an editor or a read-only viewer
+- an [AI connector](https://swapp.ro/conector-ai), an MCP server for Claude, ChatGPT, Cursor and Codex: ask about taxes and BNR rates without an account, or sign in and let the assistant read your books, log your hours and draw up invoices, which you check and send to ANAF yourself
 - help on every screen that explains the rule and cites the article of law
 
 Rebuilt from scratch in 2026, solo, in five months, on TanStack Start, tRPC, Drizzle, PostgreSQL and Bun, running in Docker behind Caddy, on a server in a Romanian data centre, with backups kept in the EU. Live since October 2026, free while it's being finished, and I keep my own books in it.
