@@ -45,8 +45,8 @@ Rebuilt from scratch in 2026, solo, in five months, on TanStack Start, tRPC, Dri
 
 ### Everything else
 
-- **Now:** owner and jack of all trades at [swapp.ro](https://swapp.ro/), fractional CTO and sweat-equity partner at [LeasingSH.ro](https://www.leasingsh.ro/) since 2013, co-owner of [Yadda](https://yadda.ro)
-- **Before:** [Allianz](https://www.allianz.com/en.html), Garanta (member of the [National Bank of Greece](https://www.nbg.gr/en/group) group) and [AJM FleetPurchase](https://ajm-fleetpurchase.com/)
+- **Now:** owner and jack of all trades at [swapp.ro](https://swapp.ro/), co-owner of [Yadda](https://yadda.ro)
+- **Before:** fractional CTO and sweat-equity partner at [LeasingSH.ro](https://www.leasingsh.ro/) (2013—2026), [Allianz](https://www.allianz.com/en.html), Garanta (member of the [National Bank of Greece](https://www.nbg.gr/en/group) group) and [AJM FleetPurchase](https://ajm-fleetpurchase.com/)
 
 <p>
   <a href="https://www.leasingsh.ro/"><img src="assets/leasingsh.png" alt="LeasingSH.ro" height="200" /></a>
@@ -99,7 +99,7 @@ Also worked with: Remix/React Router, [Ant Design](https://ant.design/components
 You can find my boring, full-length ~~obituary~~ LinkedIn profile at [linkedin.com/in/icflorescu](https://www.linkedin.com/in/icflorescu/), but here's the blurb:
 - 25+ years of experience in web and software development
 - I've worked for various companies (from mid-sized to large multinationals such as [Allianz](https://www.allianztiriac.ro/) and Garanta — [member of National Bank of Greece](https://www.nbg.gr/en/group)) during the initial part of my career; since 2008 I've been working independently
-- Technical partner at [LeasingSH.ro](https://www.leasingsh.ro/) since 2013, rebuilt three times as the web evolved, keeping the business running through each migration
+- Technical partner at [LeasingSH.ro](https://www.leasingsh.ro/) from 2013 to 2026, rebuilt three times as the web evolved, keeping the business running through each migration
 - In 2026 I rebuilt [swapp.ro](https://swapp.ro/) from scratch, solo, in five months: invoicing and single-entry accounting for Romanian freelancers, wired into the national e-invoicing system
 - I'm at home in rule-heavy domains (insurance, leasing, tax), where "almost right" means wrong
 - I sometimes ~~rant~~ write about technology and its impact on human behaviour in [articles like these](https://www.linkedin.com/in/icflorescu/recent-activity/posts/)
