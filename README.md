@@ -11,7 +11,7 @@ Curious by nature, an avid reader of fantasy, fiction, history & tech-related li
 
 ### Open source
 
-Creator of [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), the table component for data-rich [Mantine](https://mantine.dev) applications: 800k+ npm downloads a month, used by companies such as Microsoft and Namecheap. Async data loading, pagination, sorting, row selection, row expansion, row context menus and dark-theme support, all fully typed.
+Creator of [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/), the table component for data-rich [Mantine](https://mantine.dev) applications: 890k+ npm downloads a month, used by companies such as Microsoft and Namecheap. Async data loading, pagination, sorting, row selection, row expansion, row context menus and dark-theme support, all fully typed.
 
 <a href="https://icflorescu.github.io/mantine-datatable/"><img src="assets/mantine-datatable-home.png" alt="Mantine DataTable: the table component for your data-rich Mantine applications" width="100%" /></a>
 
